@@ -1,0 +1,12 @@
+[The ULTIMATE ADVICE For Every 20 YEAR OLD](https://www.youtube.com/watch?v=8eYYM7KzhPs&list=WL&index=9)
+- I neuroscienziati affermano che generalmente le nostre menti sono nel momento presente solo per circa tre secondi alla volta
+- Da piccoli abbiamo bisogno di affetto e attenzioni, e impariamo imitando quello che fanno gli altri. Perciò abbiamo questo bisogno di approvazione esterna e cerchiamo di seguire ciò che fanno gli altri
+- Quando si tratta di prendere decisioni cambiamo la nostra immagine della realtà per evitare il disagio che arriva quando andiamo contro ciò che pensano gli altri
+- Le catene dell'abitudine sono troppo leggere per essere sentite finché non sono troppo pesanti per essere spezzate
+- Molti di noi sono costantemente disconnessi da se stessi perché convalidiamo o verifichiamo sempre le opinioni degli altri su di essi
+- Lasciamo che le idee e le credenze degli altri definiscano come ci sentiamo invece di essere guidati dai nostri valori
+- Fai un passo indietro e chiediti: perché lo sto facendo? È perché è quello che vuoi veramente? o è perché è la società o l'opinione di qualcun altro?
+- Quando isoli i tuoi valori inizierai a vedere più chiaramente cosa è importante per te
+- Fai un elenco di tutto ciò che stai inseguendo nella tua vita in questo momento insieme al motivo per cui lo stai inseguendo, vedendo quali insegui a causa delle aspettative degli altri e quali sono la voce di te stesso.
+- Analizza i tuoi obblighi (pagamenti ecc...), identifica quelli che ti tolgono di più di quelli che ti danno, e al massimo adattali affinchè ti diano più valore
+- What other thinks of me is none of my business

@@ -1,0 +1,25 @@
+ul>li::marker,
+ol>li::marker {
+  color: #679ec5;
+}
+
+.markdown-preview-view ul>li.task-list-item.is-checked {
+  text-decoration: line-through;
+  color: var(--text-normal);
+}
+
+.checklist-plugin-main .group .compact>.toggle .checked,
+.is-flashing input[type=checkbox]:checked,
+input[type=checkbox]:checked {
+  background-position: 54% 55%;
+}
+
+.theme-light, .theme-dark {
+    --h1-color: var(--text-accent);
+    --h2-color: var(--text-accent);
+    --h3-color: var(--text-accent);
+    --h4-color: var(--text-accent);
+    --h5-color: var(--text-accent);
+    --h6-color: var(--text-muted);
+}
+

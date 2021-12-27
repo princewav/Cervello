@@ -1,0 +1,2 @@
+# Problema Match Automatico
+probabilmente il matcher automatico non li accoppia perche trovava l'uid nelle agencies excluded, che quindi probabilmente non sta funzionando in modo biunivoco l'aggiunta di un uid all'array agencies excluded. inoltre eliminare dalle agenzie escluse quando si conferma il matching

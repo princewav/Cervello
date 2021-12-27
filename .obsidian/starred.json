@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "🏠 My Life",
+      "path": "🏠   My Life.md"
+    },
+    {
+      "type": "file",
+      "title": "TODO",
+      "path": "✅   TODO.md"
+    },
+    {
+      "type": "file",
+      "title": "Lavoro",
+      "path": "🖥️   Lavoro.md"
+    },
+    {
+      "type": "file",
+      "title": "🤩  Obiettivi",
+      "path": "Obiettivi.md"
+    },
+    {
+      "type": "file",
+      "title": "💪  Skill",
+      "path": "Skill.md"
+    }
+  ]
+}

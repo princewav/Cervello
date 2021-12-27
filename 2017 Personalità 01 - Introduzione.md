@@ -1,0 +1,1 @@
+[2017 Personalità 01 - Introduzione](https://www.youtube.com/watch?v=kYYJlNbV1OM&list=WL&index=7&t=57s "2017 Personalità 01: Introduzione")

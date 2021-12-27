@@ -1,0 +1,12 @@
+{
+  "foldHeading": false,
+  "foldIndent": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "promptDelete": false,
+  "attachmentFolderPath": "Allegati",
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": false
+}

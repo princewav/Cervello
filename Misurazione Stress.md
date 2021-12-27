@@ -1,0 +1,1 @@
+source: https://www.metodo-ongaro.com/blog/tecniche-misurazione-stress

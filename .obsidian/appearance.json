@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 18,
+  "translucency": false,
+  "theme": "obsidian",
+  "cssTheme": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "edo_theme"
+  ]
+}

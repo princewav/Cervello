@@ -1,0 +1,1 @@
+[The BIGGEST Mindset Change You Need to Make RIGHT Now! (It's Common Sense!)](https://www.youtube.com/watch?v=Ro-Jya3jE1o&list=WL&index=5 "The BIGGEST Mindset Change You Need to Make RIGHT Now! (It's Common Sense!)")

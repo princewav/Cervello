@@ -1,0 +1,1 @@
+https://forum.obsidian.md/t/sync-mobile-app-through-google-drive-android-windows10/20891

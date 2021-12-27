@@ -1,0 +1,1 @@
+[Jordan Peterson - How FOOLS get CHEATED ON](https://www.youtube.com/watch?v=1WajzBXzM9s&list=WL&index=8 "Jordan Peterson - How FOOLS get CHEATED ON")
