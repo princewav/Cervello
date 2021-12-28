@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "753a9456ee8e57fa",
@@ -142,8 +143,17 @@
                 "file": "Note Giornaliere/2021-12-27.md"
               }
             }
+          },
+          {
+            "id": "c3cdf55ca9159716",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
