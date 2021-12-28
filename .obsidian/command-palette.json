@@ -3,6 +3,7 @@
     "obsidian-text-format:text-format-capitalize-sentence",
     "obsidian-emoji-toolbar:emoji-picker:open-picker",
     "url-into-selection:paste-url-into-selection",
-    "obsidian-text-format:text-format-remove-spaces"
+    "obsidian-text-format:text-format-remove-spaces",
+    "obsidian-git:push"
   ]
 }
