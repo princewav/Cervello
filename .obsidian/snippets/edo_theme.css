@@ -73,37 +73,10 @@ a.tag:hover {
 h1, .cm-header-1 {
   color: var(--text-accent);
 }
-/* 
-h2, span.cm-header.cm-header-2 {
-    color: var(--headers-primary);
+.task-list-item-checkbox{
+filter: hue-rotate(352deg);
 }
-h3, span.cm-header.cm-header-3 {
-    color: var(--headers-secondary);
-}
-h4, h5, span.cm-header.cm-header-4, span.cm-header.cm-header-5 {
-    color: var(--headers-secondary);
-    font-weight: 600;
-    font-size: 1.2em !important;
-}
-h4 {
-    text-transform: uppercase;
-    color: var(--headers-secondary);
-}
-a {
-    outline: none;
-    font-weight: 600;
-}
-h1 {
-    text-align: center;
-}
-.theme-light {
-    --text-accent-hover: #9577c5;
-    --interactive-accent-hover: #9b7dcc;
-    --background-primary-alt: #ededed;
-    --headers-primary: #31008b;
-    --headers-secondary: #0047a5;
-    --background-secondary: #ececec;
-} */
+
 .theme-dark {
   --text-accent: #70baff;
   --text-accent-hover: #2395ff;
@@ -111,24 +84,3 @@ h1 {
   --interactive-accent-hover: #0176d6;
   --h1-color: #8fd9f1;
 }
-
-/* .markdown-preview-view .task-list-item-checkbox {
-    filter: hue-rotate(168deg) brightness(125%) saturate(80%);
-} */
-/* .dropdown{
-    filter: hue-rotate(149deg) brightness(195%) saturate(100%);
-}
-.dropdown:focus{
-    border-color: #233952;
-}
-.setting-item-control button {
-    font-weight: 600;
-} */
-/* button.mod-warning {
-    background-color: var(--background-modifier-error);
-    color: #ffffff;
-    font-weight: 600;
-} */
-/* .suggestion-item:hover {
-    background: #e4e4e4;
-} */
