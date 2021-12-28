@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "753a9456ee8e57fa",
@@ -147,16 +148,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
     "the happiness track.md",
+    "Note Giornaliere/2021-12-28.md",
     "so good they can't ignore you.md",
     "Note Giornaliere/2021-12-16.md",
     "deep work.md",
-    "Note Giornaliere/2021-12-28.md",
     "Note Giornaliere/2021-12-27.md",
     "Note Giornaliere/2021-12-26.md",
     "2017 Personalità 01 - Introduzione.md",

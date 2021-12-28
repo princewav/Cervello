@@ -1,7 +1,5 @@
 [The Happiness Track by Emma Seppälä (Book Summary) - NJlifehacks](https://www.njlifehacks.com/happiness-track-emma-seppala-summary/)
 
-[www.njlifehacks.com](https://www.njlifehacks.com/)
-
 # The Happiness Track by Emma Seppälä (Book Summary) - NJlifehacks
 
 _The Happiness Track_ by Emma Seppälä is a short read that teaches us how to reach success without sacrificing our health, friendships, and happiness.
@@ -20,16 +18,12 @@ I enjoyed the book a lot – it’s simple, quick and easy to read, and backed b
 -   Anyone interested in the psychological research of happiness, success, and productivity
 
 ## 1. Hustling, Grinding, and Chasing the Future Doesn’t Work
+- Problema: Rincorri sempre la prossima task prima di finire quella corrente. La tua mente è sempre ossessionata dal lavoro. Ti ritrovi spesso a chiederti cosa dovresti in questo momento per avere più successo.
+- Questi comportamenti possono essere dannosi in vari ambiti:
+    - Salute: sono associati al burnout, esaurimento emotivo, cinismo e depersonalizzazione
+    - Lavoro: aumenta lo stress e insoddisfazione sul lavoro, riducendo la produttivià a seguito del calo di attenzione. Pensando alla prossima task si sottrae attenzione a quella corrente.
+    - Relazioni: questà competitività danneggia i rapporti con i colleghi e favorisce commportamenti controprodicenti, oltre a diminuire la soddisfa
 
-Are you overly focused on achievement, striving to exceed your goals, and playing catch-up with your ambitious to-do list?
-
-==Are you always running after the next task before even finishing the last one? Is your mind constantly obsessed with work? Do you often find yourself asking, “What am I doing right now to be more successful?”==
-
-If you’re anything like me, you can identify with this type of “chase,” “hustle,” or “Go-Getter” mentality.
-
-The only problem? Constantly trying to get things done and focusing on the next thing doesn’t work. In fact, it ironically prevents us from being as successful as we want to be while wreaking havoc on our body and mind.
-
-> ==“Many studies show that the workaholic or successaholic chase can be detrimental on a number of levels:==
 
 > ==**Health.** It is linked to lower levels of physical and psychological health. In particular, it is associated with burnout, emotional exhaustion, cynicism, and depersonalization. It is also linked to lower overall life satisfaction.==
 
@@ -56,21 +50,10 @@ While there are many benefits to being present, Emma Seppälä focuses on the fo
 Bottom line: Being present makes you more productive, happier, charismatic, and generally better and more successful person. Time to slow down, buddy!
 
 ## 3. How to Bring Your Mind Into the Present
-
-
-
-> “When you notice that your mind is going toward future-oriented thoughts, you can choose not to follow the train of thought – instead, you can nudge your mind back into the present. Let’s say you are working at your desk, playing with your child, or having dinner with your spouse, and you notice that your mind is somewhere else. Of course, this isn’t the first time your mind has wandered away from the present, but when you first consciously observe this pattern, it can be a little disturbing. Your might have thoughts like ‘Wow, here I am with my loved ones and I can’t focus on them.’ But this awareness is key. Try reorienting your attention fully on what is going on in front of you. This exercise is not easy at first, but, like working a muscle, you can strengthen your ability to stay present by repeating this exercise.”
-
-- visto che siamo sempre persi nei nostri pensieri e ci teniamo sempre occupati non diamo attenzione al momento presente
+- Visto che siamo sempre persi nei nostri pensieri e ci teniamo sempre occupati non diamo attenzione al momento presente
 - Non sempre riusciamo ad accorgerci che ci stiamo alienando, ma con la meditazione possiamo allenare questa consapevolezza.
-- Quando ci se ne rende conto, non bisogna incolparsi per essersi distratti. Invece, bisogna riportare con tranquillità e rapidità la propria mente al momento presente
-
-
-We just don’t remember to be present. Frankly, we lack the necessary awareness to realize we’re not being present at any given moment. If you are new to this whole present-to-the-moment thing, meditation, mindfulness, and what not, you may only realize it once or twice a day. That’s normal.
-
-When you _do_ realize it, please don’t get upset, sad, or disappointed about the fact that you’ve been distracted. Instead, don’t lose any time and bring your mind right into the here and now. Fully inhabit your experience. Be totally alert. Pay attention to what’s going on. That’s what being present means.
-
-And if all of this sounds weird to you, check out our summaries on mindfulness and meditation books. [_Peace Is Every Step_](https://www.njlifehacks.com/peace-every-step-thich-nhat-hanh-summary/) by Thich Nhat Hanh or [_Awareness_](https://www.njlifehacks.com/awareness-by-osho-book-summary/) by Osho might be a good start.
+- Quando ci se ne rende conto, non bisogna incolparsi per essersi distratti. Invece, bisogna riportare con tranquillità e rapidità la propria mente al momento presente.
+- Essere presenti significa vivere appieno l'esperienza, essere completamente vigile, dare attenzione a ciò che succede.
 
 ## 4. Multitasking Is a Bad Idea
 
