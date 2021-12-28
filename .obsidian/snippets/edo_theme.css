@@ -71,7 +71,7 @@ a.tag:hover {
   border-color: var(--background-modifier-border-hover);
 }
 h1, .cm-header-1 {
-  color: var(--h1-color);
+  color: var(--text-accent);
 }
 /* 
 h2, span.cm-header.cm-header-2 {
