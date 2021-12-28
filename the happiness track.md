@@ -57,9 +57,14 @@ Bottom line: Being present makes you more productive, happier, charismatic, and 
 
 ## 3. How to Bring Your Mind Into the Present
 
+
+
 > “When you notice that your mind is going toward future-oriented thoughts, you can choose not to follow the train of thought – instead, you can nudge your mind back into the present. Let’s say you are working at your desk, playing with your child, or having dinner with your spouse, and you notice that your mind is somewhere else. Of course, this isn’t the first time your mind has wandered away from the present, but when you first consciously observe this pattern, it can be a little disturbing. Your might have thoughts like ‘Wow, here I am with my loved ones and I can’t focus on them.’ But this awareness is key. Try reorienting your attention fully on what is going on in front of you. This exercise is not easy at first, but, like working a muscle, you can strengthen your ability to stay present by repeating this exercise.”
 
-Yeah, so this is the trouble with being present… it’s very, very hard. Because we are so used to being lost in our thoughts and seem to keep ourselves busy all the time, we hardly ever realize that we’re not actually paying attention to the present moment.
+- visto che siamo sempre persi nei nostri pensieri e ci teniamo sempre occupati non diamo attenzione al momento presente
+- Non sempre riusciamo ad accorgerci che ci stiamo alienando, ma con la meditazione possiamo allenare questa consapevolezza.
+- Quando ci se ne rende conto, non bisogna incolparsi per essersi distratti. Invece, bisogna riportare con tranquillità e rapidità la propria mente al momento presente
+
 
 We just don’t remember to be present. Frankly, we lack the necessary awareness to realize we’re not being present at any given moment. If you are new to this whole present-to-the-moment thing, meditation, mindfulness, and what not, you may only realize it once or twice a day. That’s normal.
 
