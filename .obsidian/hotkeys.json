@@ -32,7 +32,6 @@
       "key": "D"
     }
   ],
-  "table-editor-obsidian:table-control-bar": [],
   "note-refactor-obsidian:app:extract-selection-first-line": [],
   "command-palette:open": [
     {
@@ -79,5 +78,6 @@
       ],
       "key": "D"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": []
 }

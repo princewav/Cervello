@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2021-12-28.md",
+            "file": "Terminare album Siso.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "753a9456ee8e57fa",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2021-12-28.md",
+                "file": "Terminare album Siso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2021-12-28.md"
+                "file": "Terminare album Siso.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "345d27163f19198f",
   "lastOpenFiles": [
+    "Terminare album Siso.md",
+    "Prof & Mingolo 2.md",
+    "🏠   My Life.md",
     "Note Giornaliere/2021-12-28.md",
     "Note Giornaliere/2021-12-27.md",
     "Note Giornaliere/2021-12-26.md",
     "deep work.md",
     "2017 Personalità 01 - Introduzione.md",
     "Note Giornaliere/2021-12-16.md",
-    "Piano vacanze di natale.md",
-    "Note Giornaliere/2021-12-25.md",
-    "Note Giornaliere/2021-12-18.md",
-    "Note Giornaliere/2021-12-21.md"
+    "Piano vacanze di natale.md"
   ]
 }

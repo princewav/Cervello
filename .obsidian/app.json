@@ -8,5 +8,6 @@
   "attachmentFolderPath": "Allegati",
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "useTab": false
 }
