@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the happiness track.md",
-            "mode": "source",
+            "file": "Terminare album Siso.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       },
       {
         "id": "753a9456ee8e57fa",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the happiness track.md",
+                "file": "Terminare album Siso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the happiness track.md"
+                "file": "Terminare album Siso.md"
               }
             }
           }
@@ -148,10 +148,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
+    "Terminare album Siso.md",
+    "🏠   My Life.md",
     "the happiness track.md",
     "Note Giornaliere/2021-12-28.md",
     "so good they can't ignore you.md",
@@ -159,8 +162,6 @@
     "deep work.md",
     "Note Giornaliere/2021-12-27.md",
     "Note Giornaliere/2021-12-26.md",
-    "2017 Personalità 01 - Introduzione.md",
-    "Piano vacanze di natale.md",
-    "Note Giornaliere/2021-12-25.md"
+    "2017 Personalità 01 - Introduzione.md"
   ]
 }
