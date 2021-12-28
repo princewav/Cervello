@@ -15,7 +15,6 @@ It’s all about using happiness in the Now as the path towards success in the f
 I enjoyed the book a lot – it’s simple, quick and easy to read, and backed by the latest research. Plus, it strongly resembles my personal philosophy of success – I am much more productive when I slow down, give time to mindfulness, and put my attention as fully as possible on the present moment.
 
 ## Who Is _The Happiness Track_ For?
-
 -   Anyone interested in being happy and successful simultaneously
 -   Anyone interested in becoming more productive
 -   Anyone interested in the psychological research of happiness, success, and productivity
@@ -24,19 +23,19 @@ I enjoyed the book a lot – it’s simple, quick and easy to read, and backed b
 
 Are you overly focused on achievement, striving to exceed your goals, and playing catch-up with your ambitious to-do list?
 
-Are you always running after the next task before even finishing the last one? Is your mind constantly obsessed with work? Do you often find yourself asking, “What am I doing right now to be more successful?”
+==Are you always running after the next task before even finishing the last one? Is your mind constantly obsessed with work? Do you often find yourself asking, “What am I doing right now to be more successful?”==
 
 If you’re anything like me, you can identify with this type of “chase,” “hustle,” or “Go-Getter” mentality.
 
 The only problem? Constantly trying to get things done and focusing on the next thing doesn’t work. In fact, it ironically prevents us from being as successful as we want to be while wreaking havoc on our body and mind.
 
-> “Many studies show that the workaholic or successaholic chase can be detrimental on a number of levels:
+> ==“Many studies show that the workaholic or successaholic chase can be detrimental on a number of levels:==
 
-> **Health.** It is linked to lower levels of physical and psychological health. In particular, it is associated with burnout, emotional exhaustion, cynicism, and depersonalization (a disturbing sense of dissociation from yourself that accompanies prolonged stress or trauma). It is also linked to lower overall life satisfaction.
+> ==**Health.** It is linked to lower levels of physical and psychological health. In particular, it is associated with burnout, emotional exhaustion, cynicism, and depersonalization. It is also linked to lower overall life satisfaction.==
 
-> **Work.** It can – counterintuitively perhaps – damage productivity and performance. It has been linked to lower job satisfaction and increased job stress, which reduce productivity by, for example, reducing attention span. This should come as no surprise. If you continuously focused on the next thing you need to accomplish, only part of your attention is directed toward your present activity.  
+> ==**Work.** It can damage productivity and performance. It has been linked to lower job satisfaction and increased job stress, which reduce productivity by reducing attention span. If you continuously focused on the next thing you need to accomplish, only part of your attention is directed toward your present activity.==  
 
-> **Relationships.** At work, constantly focusing on achievement can increase negative interactions with co-workers, leading to competitiveness, rivavlry, and distrust, which further lead to counterproductive work behavior. In personal relationships, it is linked to higher levels of work-life conflict, reduced family satisfaction and functioning, and relationship problems with your spouses.
+> ==**Relationships.** At work, constantly focusing on achievement can increase negative interactions with co-workers, leading to competitiveness, rivavlry, and distrust, which further lead to counterproductive work behavior. In personal relationships, it is linked to higher levels of work-life conflict, reduced family satisfaction and functioning, and relationship problems with your spouses.==
 
 Most of us have been thoroughly conditioned to believe in this approach. And we just keep going whether it works or not. (As just proven… it usually doesn’t work.)
 
@@ -50,9 +49,9 @@ Being present – as opposed to chasing the future – is what makes us happy an
 
 While there are many benefits to being present, Emma Seppälä focuses on the following three:
 
--   **Being present makes you more productive.** Multitasking and trying to get a hundred things done at the same time doesn’t work. Instead, productivity is maximized through single-tasking and fully immersing yourself in whatever task you are engaged in.
--   **Being present makes you happier.** Research shows that a wandering mind is an unhappy mind. On the other hand, being fully immersed in an activity – no matter how trite or boring it may seem – makes us enjoy it and boosts happiness.
--   **Being present makes you more charismatic.** This is a rather obvious one. If you meet someone at a party whose eyes are constantly flitting around the room, do they appear magnetic, charming, charismatic? Probably not. On the other hand, someone who is completely attentive to you and actively engaged in the conversation, who won’t check their cell phone when it’s ringing… now that’s charismatic!
+-   ==**Being present makes you more productive.** Multitasking and trying to get a hundred things done at the same time doesn’t work. Instead, productivity is maximized through single-tasking and fully immersing yourself in whatever task you are engaged in.==
+-   ==**Being present makes you happier.** Research shows that a wandering mind is an unhappy mind. On the other hand, being fully immersed in an activity – no matter how trite or boring it may seem – makes us enjoy it and boosts happiness.==
+-   ==**Being present makes you more charismatic.** This is a rather obvious one. If you meet someone at a party whose eyes are constantly flitting around the room, do they appear magnetic, charming, charismatic? Probably not. On the other hand, someone who is completely attentive to you and actively engaged in the conversation, who won’t check their cell phone when it’s ringing… now that’s charismatic!==
 
 Bottom line: Being present makes you more productive, happier, charismatic, and generally better and more successful person. Time to slow down, buddy!
 
