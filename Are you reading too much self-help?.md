@@ -1,9 +1,0 @@
-[Are you reading too much self-help? - Counselling Directory](https://www.counselling-directory.org.uk/memberarticles/are-you-reading-too-much-self-help)
-
-# Are you reading too much self-help?
-- Si può esagerare con l'assimilare troppe cose positive, e questo include il auto-aiuto.
-- Leggere il auto-aiuto può darti la sensazione che socializzare sia una faccenda molto complicata, come se dovessi seguire una lunga checklist per farlo in modo efficace.
-- Leggere troppa letteratura sull'auto-aiuto può incoraggiare un'ossessione per la nostra vita interiore, rendendo il nostro pensiero più simile a una ruminazione ansiosa. Così svalutiamo il mondo esteriore, sentendoci disconnessi, soli e, ironicamente, meno sicuri di noi stessi.
-- Mentre l'introspezione può fornire una preziosa conoscenza di sé, una parte cruciale del conoscere noi stessi è attraverso ciò che facciamo, il coinvolgimento con il mondo può darci un senso più sicuro delle nostre preferenze e valori, poiché l'azione esterna richiede sempre di fare delle scelte.
-- Dal momento che ogni società consiste in alcune tendenze controproducenti, dobbiamo stare attenti quando leggiamo libri che potrebbero rafforzare alcune di queste tendenze. Se prendiamo ciò che viene detto per verità assoluta, allora potremmo davvero consolidare convinzioni che hanno già contribuito ai nostri problemi.
-- Non solo leggere i libri più venduti del genere che tendono a concentrarsi sulle tecniche per raggiungere un fine desiderabile, ma anche quei libri che criticano la nostra società e mostrano la relazione tra il nostro modo di vivere e i problemi che abbiamo
