@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2021-12-27.md",
-            "mode": "preview",
+            "file": "Note Giornaliere/2021-12-28.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "753a9456ee8e57fa",
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2021-12-27.md",
+                "file": "Note Giornaliere/2021-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,11 +140,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2021-12-27.md"
+                "file": "Note Giornaliere/2021-12-28.md"
               }
             }
+          },
+          {
+            "id": "c3cdf55ca9159716",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,6 +161,7 @@
   },
   "active": "345d27163f19198f",
   "lastOpenFiles": [
+    "Note Giornaliere/2021-12-28.md",
     "Note Giornaliere/2021-12-27.md",
     "Note Giornaliere/2021-12-26.md",
     "deep work.md",
@@ -159,7 +170,6 @@
     "Piano vacanze di natale.md",
     "Note Giornaliere/2021-12-25.md",
     "Note Giornaliere/2021-12-18.md",
-    "Note Giornaliere/2021-12-21.md",
-    "Note Giornaliere/2021-12-20.md"
+    "Note Giornaliere/2021-12-21.md"
   ]
 }
