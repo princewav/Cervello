@@ -77,6 +77,10 @@ h1, .cm-header-1 {
 filter: hue-rotate(352deg);
 }
 
+.cm-s-obsidian .HyperMD-table-row.HyperMD-table-row-0 {
+  font-weight: normal;
+}
+
 .theme-dark {
   --text-accent: #70baff;
   --text-accent-hover: #2395ff;

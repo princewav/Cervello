@@ -8,4 +8,11 @@
 - Mondo mio
 
 ## Progresso
-gfhfghfgh
+| Traccia              | Drums | Melodia | Mix | Struttura | Dettagli | Strofe | Ritornelli | Voci complete | Master |
+| -------------------- | ----- | ------- | --- | --------- | -------- | ------ | ---------- | ------------- | ------ |
+| Prof & Mingolo 2     | x     |         |     |           |          | x      | x          |               |        |
+| Trenino              | x     | x       | x   | x         | x        | x      | x          | x             |        |
+| Per il meme          | x     | x       |     |           |          |        | x          |               |        |
+| ??? (Feat. Sinomine) |       |         |     |           |          |        |            |               |        |
+| Mondo mio            | x     | x       |     |           |          |        | x          |               |        |
+|                      |       |         |     |           |          |        |            |               |        |
