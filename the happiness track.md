@@ -2,52 +2,17 @@
 
 # The Happiness Track by Emma Seppälä (Book Summary) - NJlifehacks
 
-_The Happiness Track_ by Emma Seppälä is a short read that teaches us how to reach success without sacrificing our health, friendships, and happiness.
-
-The book shows how common myths about success – never stop accomplishing, sacrifice the today for tomorrow, stress is inevitable for success, you need to hustle and grind it out – lead to burnout, misery, and failure rather than true success and fulfillment.
-
-What’s Emma Seppälä’s alternative prescription for success? It’s all about slowing down, connecting with the present moment, and cultivating positive mind states such as kindness, (self-)compassion, and gratitude.
-
-It’s all about using happiness in the Now as the path towards success in the future. In her own words: “Decades of research have shown that happiness is not the outcome of success but rather its precursor.
-
-I enjoyed the book a lot – it’s simple, quick and easy to read, and backed by the latest research. Plus, it strongly resembles my personal philosophy of success – I am much more productive when I slow down, give time to mindfulness, and put my attention as fully as possible on the present moment.
-
-## Who Is _The Happiness Track_ For?
--   Anyone interested in being happy and successful simultaneously
--   Anyone interested in becoming more productive
--   Anyone interested in the psychological research of happiness, success, and productivity
-
 ## 1. Hustling, Grinding, and Chasing the Future Doesn’t Work
 - Problema: Rincorri sempre la prossima task prima di finire quella corrente. La tua mente è sempre ossessionata dal lavoro. Ti ritrovi spesso a chiederti cosa dovresti in questo momento per avere più successo.
 - Questi comportamenti possono essere dannosi in vari ambiti:
     - Salute: sono associati al burnout, esaurimento emotivo, cinismo e depersonalizzazione
     - Lavoro: aumenta lo stress e insoddisfazione sul lavoro, riducendo la produttivià a seguito del calo di attenzione. Pensando alla prossima task si sottrae attenzione a quella corrente.
-    - Relazioni: questà competitività danneggia i rapporti con i colleghi e favorisce commportamenti controprodicenti, oltre a diminuire la soddisfa
-
-
-> ==**Health.** It is linked to lower levels of physical and psychological health. In particular, it is associated with burnout, emotional exhaustion, cynicism, and depersonalization. It is also linked to lower overall life satisfaction.==
-
-> ==**Work.** It can damage productivity and performance. It has been linked to lower job satisfaction and increased job stress, which reduce productivity by reducing attention span. If you continuously focused on the next thing you need to accomplish, only part of your attention is directed toward your present activity.==  
-
-> ==**Relationships.** At work, constantly focusing on achievement can increase negative interactions with co-workers, leading to competitiveness, rivavlry, and distrust, which further lead to counterproductive work behavior. In personal relationships, it is linked to higher levels of work-life conflict, reduced family satisfaction and functioning, and relationship problems with your spouses.==
-
-Most of us have been thoroughly conditioned to believe in this approach. And we just keep going whether it works or not. (As just proven… it usually doesn’t work.)
-
-Fortunately, there’s a better way…
+    - Relazioni: questà competitività danneggia i rapporti con i colleghi e favorisce commportamenti controprodicenti, oltre a diminuire la soddisfazione familiare.
 
 ## 2. The Benefits of Being Present
-
-> “Paradoxically, slowing down and focusing on what is happening in front of you right now – being present instead of always having your mind on the next thing – will make you much more successful. Expressions like ‘live in the moment’ or ‘carpe diem’ sound like clichés, yet science backs them up robustly. Research shows that remaining present – rather than constantly focusing on what you have to do next – will make you more productive and happier and, moreover, will give you that elusive quality we attribute to the most successful people: charisma.”
-
-Being present – as opposed to chasing the future – is what makes us happy and successful.
-
-While there are many benefits to being present, Emma Seppälä focuses on the following three:
-
--   ==**Being present makes you more productive.** Multitasking and trying to get a hundred things done at the same time doesn’t work. Instead, productivity is maximized through single-tasking and fully immersing yourself in whatever task you are engaged in.==
--   ==**Being present makes you happier.** Research shows that a wandering mind is an unhappy mind. On the other hand, being fully immersed in an activity – no matter how trite or boring it may seem – makes us enjoy it and boosts happiness.==
--   ==**Being present makes you more charismatic.** This is a rather obvious one. If you meet someone at a party whose eyes are constantly flitting around the room, do they appear magnetic, charming, charismatic? Probably not. On the other hand, someone who is completely attentive to you and actively engaged in the conversation, who won’t check their cell phone when it’s ringing… now that’s charismatic!==
-
-Bottom line: Being present makes you more productive, happier, charismatic, and generally better and more successful person. Time to slow down, buddy!
+- **Essere presenti rende più produttivi**. Il multitasking non funziona, al contrario dell'immergersi completamente nella task corrente.
+- **Essere presenti rende più felici**. Una mente che rimugina è infelice. Una mente immersa appieno in un'attività, invece, ce la fa godere, per quanto sia noiosa.
+- **Essere presenti ci rende carismatici**. Fa molto più colpo una persona che dà piene attenzioni ed è convolta attivamente nella conversazione, piuttosto che una distratta, con sguardo perso nel vuoto.
 
 ## 3. How to Bring Your Mind Into the Present
 - Visto che siamo sempre persi nei nostri pensieri e ci teniamo sempre occupati non diamo attenzione al momento presente
@@ -56,7 +21,7 @@ Bottom line: Being present makes you more productive, happier, charismatic, and 
 - Essere presenti significa vivere appieno l'esperienza, essere completamente vigile, dare attenzione a ciò che succede.
 
 ## 4. Multitasking Is a Bad Idea
-
+- Più si 
 > “When we are doing several things at once, we cannot deeply process the material we are working on. Research shows that multitasking harms your memory. In one study, university students who had their laptops open during a lecture ended up scoring worse on traditional memory tests for lecture content than students who had their laptops closed. Research also shows that our concentration skills weaken because we lose our ability to filter our unnecessary information and are therefore constantly thinking about other things.”
 
 Unfortunately, most of us have lost the ability to stay in the present. We maintain a packed schedule with very few breaks and fill every moment of free time with multitasking.
