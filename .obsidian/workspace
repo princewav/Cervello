@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminare album Siso.md",
+            "file": "Note Giornaliere/2021-12-28.md",
             "mode": "preview",
             "source": false
           }
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminare album Siso.md",
+                "file": "Note Giornaliere/2021-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminare album Siso.md"
+                "file": "Note Giornaliere/2021-12-28.md"
               }
             }
           }
@@ -148,15 +147,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322,
-    "collapsed": true
+    "width": 322
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
+    "Note Giornaliere/2021-12-28.md",
     "Terminare album Siso.md",
     "🏠   My Life.md",
     "the happiness track.md",
-    "Note Giornaliere/2021-12-28.md",
     "so good they can't ignore you.md",
     "Note Giornaliere/2021-12-16.md",
     "deep work.md",
