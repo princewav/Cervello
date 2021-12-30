@@ -21,7 +21,9 @@
 - Essere presenti significa vivere appieno l'esperienza, essere completamente vigile, dare attenzione a ciò che succede.
 
 ## 4. Multitasking Is a Bad Idea
-- Più si 
+- Tendiamo a riempire ogni nostro momento libero con il multitasking
+- Il multitasking danneggia la concentrazione e crea danni alla salute, con ansia e depressione.
+- Al contrario l'essere concentrato in una singola task ci assorbe in uno stato di completa concentrazione. Ci capita quando siamo costretti da una deadline a lavorare su un progetto per esempio, in cui siamo impossibilitati a distogliere la concentrazione.
 > “When we are doing several things at once, we cannot deeply process the material we are working on. Research shows that multitasking harms your memory. In one study, university students who had their laptops open during a lecture ended up scoring worse on traditional memory tests for lecture content than students who had their laptops closed. Research also shows that our concentration skills weaken because we lose our ability to filter our unnecessary information and are therefore constantly thinking about other things.”
 
 Unfortunately, most of us have lost the ability to stay in the present. We maintain a packed schedule with very few breaks and fill every moment of free time with multitasking.
