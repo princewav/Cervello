@@ -1,4 +1,4 @@
-[The Happiness Track by Emma Seppälä (Book Summary) - NJlifehacks](https://www.njlifehacks.com/happiness-track-emma-seppala-summary/)
+20 Scientific Reasons to Start Meditating Today: New research shows meditation boosts your health, happiness, and success! - Emma Seppälä, Ph.D.ck by Emma Seppälä (Book Summary) - NJlifehacks](https://www.njlifehacks.com/happiness-track-emma-seppala-summary/)
 
 # The Happiness Track by Emma Seppälä (Book Summary) - NJlifehacks
 
@@ -24,39 +24,14 @@
 - Tendiamo a riempire ogni nostro momento libero con il multitasking
 - Il multitasking danneggia la concentrazione e crea danni alla salute, con ansia e depressione.
 - Al contrario l'essere concentrato in una singola task ci assorbe in uno stato di completa concentrazione. Ci capita quando siamo costretti da una deadline a lavorare su un progetto per esempio, in cui siamo impossibilitati a distogliere la concentrazione.
-> “When we are doing several things at once, we cannot deeply process the material we are working on. Research shows that multitasking harms your memory. In one study, university students who had their laptops open during a lecture ended up scoring worse on traditional memory tests for lecture content than students who had their laptops closed. Research also shows that our concentration skills weaken because we lose our ability to filter our unnecessary information and are therefore constantly thinking about other things.”
 
-Unfortunately, most of us have lost the ability to stay in the present. We maintain a packed schedule with very few breaks and fill every moment of free time with multitasking.
-
-Not only does multitasking harm our performance (e.g., our memory and concentration), but it’s also harming our well-being. There’s a study in the book showing that the more people engage in media multitasking, the higher their anxiety and depression levels tend to be.
-
-If you think about it, that’s not too surprising. If you’re constantly being pulled in ten different directions, it’s only natural that you start feeling stressed out and overwhelmed.
-
-Thankfully, being present comes to the rescue once again. Instead of scattering our attention, we should focus all of it on the present moment, specifically on the task we’re working on right now. This is single-tasking and it makes you a lot more productive:
-
-> “Research shows that when we are completely in tune with what we are doing, we more fully enjoy that activity. Moreover, being completely present allows us to enter a state of complete absorption that is extremely productive. Think of a time when you were faced with a project you were dreading. You knew it would involve a lot of effort; maybe you kept putting it off. However, once you started – perhaps finally egged on by an impending deadline – you become engaged and the project just flowed. You found that you actually enjoyed the process. You became highly productive because you focused completely on the task at hand. Instead of being stressed about the future and having your attention pulled in different directions, you got the work done and done well, and you were happy to boot.”
-> 
 ## 5. The #1 Way to Learn the Art of Presence?
-
-> “Meditation can help you cultivate a state of calm and quiet in your mind, displacing the cycle of desire and anxiety that comes with chasing the future. Research shows that experienced meditators have less brain activity in areas related to mind-wandering.”
-
-In a [blog post](https://emmaseppala.com/20-scientific-reasons-to-start-meditating-today/) of hers, Emma Seppälä sums up the research-backed benefits of meditation as follows:
-
--   **It boosts your health** by increasing immune function, decreasing pain, and decreasing inflammation at the cellular level.
--   **It boosts your happiness** by increasing positive emotion, decreasing depression, decreasing anxiety, and decreasing stress.
--   **It boosts your social life** by increasing social connection and emotional intelligence, making you more compassionate, and making you feel less lonely.
--   **It boosts your self-control** by improving your ability to regulate your emotions and improving your ability to introspect.
--   **It literally changes your brain for the better** by increasing grey matter, increasing volume in areas related to emotion regulation, positive emotions and self-control, and increasing cortical thickness in areas related to paying attention.
--   **It improves your productivity** by increasing your focus and attention, improving your ability to multitask, improving memory, and improving your ability to be creative and think outside the box.
-
-She also mentions another pretty cool study in the book:
-
-> “One study showed that meditation can actually buffer against the tiring effects of self-control. The researchers replicated Baumeister’s classic experiment: participants completed a task that depleted their self-control, then worked on a second challenging task. If their self-control was drained from the first task, they typically should do worse or give up more easily on the second task. In this study, the difference was that some of the participants meditated between the tasks while others did not. The scientists found that the meditating participants performed as well on the second task as participants who had not completed the first task at all. Meditation therefore appears to be a useful tool to recharge your tank and prevent depletion after challenging tasks requiring self-control.”
-
-We’ve known that meditation boosts willpower in the long-run for a while now (read about it [here](https://www.njlifehacks.com/willpower-instinct-kelly-mcgonigal-summary/)). But I had no clue that it had such a positive effect after just a few minutes.
-
-Bottom line: If you’re not meditating yet, you’re missing out. Check out our [beginner’s guide](https://www.njlifehacks.com/what-is-meditation/) for help on getting started.
-
+- La meditazione migliora:
+    - Salute: diminuisce il dolore e aumenta le funzioni immunitarie
+    - Cervello: aumenta le aree legate alla regolazione dell'autocontrollo e dell'attenzione
+    - Felicità: diminuisce ansia e stress
+    - Vita sociale: aumenta la connessione sociale e l'intelligenza emotiva
+    - Produttività: aumenta la memoria e la capacità di pensare fuori dagli schemi
 
 ## 6. Calmness Is the Key to Effortless Self-Control
 
