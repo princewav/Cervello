@@ -34,33 +34,14 @@
     - Produttività: aumenta la memoria e la capacità di pensare fuori dagli schemi
 
 ## 6. Calmness Is the Key to Effortless Self-Control
-
-> “We exercise self-control countless times during a regular workday (and in the evenings too!), and it’s exhausting us. When we experience high-intensity emotions like excitement or stress, we need extra self-control, because physiological arousal adds one more element to control. For example, your heart is pounding with anxiety over a presentation you have to make, and then you have to exert control not only over your words as you deliver your message, but also over your body so that you don’t stutter or lose your train of thought.
-
-> Calm states are the key to effortless self-control. Staying calm helps you be present with the task in which you are engaged, making it easier to avoid distractions. Paying attention happens naturally without any need for self-control.”
-
-Self-Control matters. As we’ve mentioned multiple times in our articles, it’s literally the #1 predictor of happiness, health, wealth, and overall success in life.
-
-And calmness, it turns out, is the key to effortless self-control.
-
-Why is that? It’s because the physiology of calm and the physiology of self-control go very well together. In fact, they are one and the same. When you’re calm, heart rate variability is maximized, your limbic system is minimally activated, and the prefrontal cortex (the seat of willpower) is fully online.
-
-When you’re aroused through high-intensity positive emotions (e.g., excitement) or more likely through high-intensity negative emotions (e.g., anger or anxiety), your physiology shifts into a more impulsive and primitive state. Heart rate variability goes down, the limbic system goes into overdrive, and the prefrontal cortex goes offline. Goodbye willpower!
-
-The point is, feeling calm is the optimal state for self-control. And self-control is incredibly important for living a happy, healthy, and successful life.
-
-So, how do you cultivate this state of calmness? So that it becomes more automatic and natural in your life? Basically, anything that activates your parasympathetic nervous system will do the job. This involves activities such as meditation, yoga, tai chi, stretching classes, or relaxation exercises.
-
-In addition to that, it helps to learn how to manage stress in your life. Stress – whether emotional or physical – activates the sympathetic nervous system and tends to take you out of a state of calmness. Guess what the best stress management strategies are? Meditation, yoga, Tai Chi, stretching, relaxation exercises… so yeah, just get started with meditation already.
-
-Oh, and one other way to activate the parasympathetic nervous system and cultivate a state of calm is the practice of breathing…
-
-(Learn more about willpower in our summaries of [_The Willpower Instinct_](https://www.njlifehacks.com/willpower-instinct-kelly-mcgonigal-summary/) by Kelly McGonigal or [_Willpower_](https://www.njlifehacks.com/willpower-roy-baumeister-summary/) by Roy Baumeister and John Tierney.)
+- La calma è la chiave per l'autocontrollo. In uno stato di calma abbiamo le condizioni fisiche ottimali
+- Quando si vivono emozioni forti, negative o positive (eccitamento o ansia), la nostra fisiologia tende verso uno stato più istintivo, facendoci perdere forza di volontà e autocontrollo
+- Aiuta a combattere lo stress, il quale attiva il sistema nervoso **simpatetico** facendoci perdere calma
+- Per coltivare lo stato di calma servono delle attività che attivano si sistema nervoso **parasimpatetico**, come la meditazione, yoga, tai chi, stretching, esercizi di rilassamento e praticando la respirazione
 
 ## 7. The Power of Breathing
-
-> “According to Stephen Porges, professor at the University of North Carolina and distinguished university scientist at Indiana University Bloomington, one reason slow breathing has an immediate effect is that it activates the vagus nerve—the tenth cranial nerve, which is linked to our heart, lungs, and digestive system—and thus slows down the sympathetic (fight-or-flight) and adrenal systems. In so doing, it rapidly calms us down. And with a calm mind, we handle situations more effectively. Porges explains that abdominal breathing—using the diaphragm—is particularly beneficial, as are lengthened exhales. Exhales slow the heart rate; the longer we spend on the outbreath, the more the nervous systems relaxes. In this way, exhales activate our parasympathetic (rest-and-digest) system, coaxing greater relaxation into our bodies and minds and helping us feel more peaceful. By controlling your breathing, you can use a voluntary mechanical behavior to make a profound change on your state of mind.
-
+- La respirazione addominale è molto benefica, soprattutto con delle espirazioni lunghe, che rallentano il battito cardiaco e rilassano il sistema nervoso
+- Il vantaggio della respirazione è ceh
 > So what does that mean for us? We can use our breath whenever we experience a stressful event. It is an incredible tool that is accessible to you anytime and anywhere—whether it is in an interview you are nervous about, an interaction that is upsetting, or a big public talk.”
 
 What’s the fastest way to change your state of mind? What’s the fastest way to switch your body from sympathetic dominance into a more calm and relaxed state?
