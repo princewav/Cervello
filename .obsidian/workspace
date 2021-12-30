@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminare album Siso.md",
+            "file": "Note Giornaliere/2021-12-29.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,22 @@
   "left": {
     "id": "0658748dc9302a11",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "323b2c71e09bcf02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5cb54dcb51bb25c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 111,
     "collapsed": true
@@ -33,7 +48,7 @@
       {
         "id": "3e64b49af3e97356",
         "type": "tabs",
-        "dimension": 22.779043280182233,
+        "dimension": 45.10250569476082,
         "children": [
           {
             "id": "6e56f9069939c2e0",
@@ -48,14 +63,6 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5cb54dcb51bb25c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
@@ -98,13 +105,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
         "type": "tabs",
-        "dimension": 77.22095671981776,
+        "dimension": 54.89749430523918,
         "children": [
           {
             "id": "9dd4ab93a73582c9",
@@ -112,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminare album Siso.md",
+                "file": "Note Giornaliere/2021-12-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminare album Siso.md"
+                "file": "Note Giornaliere/2021-12-29.md"
               }
             }
           },
@@ -161,6 +167,8 @@
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
+    "Note Giornaliere/2021-12-29.md",
+    "Note Giornaliere/2021-12-30.md",
     "Terminare album Siso.md",
     "conflict-files-obsidian-git.md",
     "Note Giornaliere/2021-12-28.md",
@@ -168,8 +176,6 @@
     "the happiness track.md",
     "so good they can't ignore you.md",
     "Note Giornaliere/2021-12-16.md",
-    "deep work.md",
-    "Note Giornaliere/2021-12-27.md",
-    "Note Giornaliere/2021-12-26.md"
+    "deep work.md"
   ]
 }
