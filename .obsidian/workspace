@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "the happiness track.md",
+            "file": "Note Giornaliere/2021-12-30.md",
             "mode": "source",
             "source": false
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "the happiness track.md",
+                "file": "Note Giornaliere/2021-12-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "the happiness track.md"
+                "file": "Note Giornaliere/2021-12-30.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
-    "the happiness track.md",
     "Note Giornaliere/2021-12-30.md",
+    "the happiness track.md",
     "Note Giornaliere/2021-12-29.md",
     "Terminare album Siso.md",
     "conflict-files-obsidian-git.md",
