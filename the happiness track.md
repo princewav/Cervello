@@ -41,20 +41,8 @@
 
 ## 7. The Power of Breathing
 - La respirazione addominale è molto benefica, soprattutto con delle espirazioni lunghe, che rallentano il battito cardiaco e rilassano il sistema nervoso
-- Il vantaggio della respirazione è ceh
-> So what does that mean for us? We can use our breath whenever we experience a stressful event. It is an incredible tool that is accessible to you anytime and anywhere—whether it is in an interview you are nervous about, an interaction that is upsetting, or a big public talk.”
-
-What’s the fastest way to change your state of mind? What’s the fastest way to switch your body from sympathetic dominance into a more calm and relaxed state?
-
-Your breath.
-
-One to two minutes of slow and deep breathing can do wonders if you’re feeling stressed, agitated, or overwhelmed.
-
-And by slowing down your mind and body, it puts you back into that state of effortless self-control. In fact, Kelly McGonigal, an expert in all things willpower, mentions in her book [_The Willpower Instinct_](https://www.amazon.com/Willpower-Instinct-Self-Control-Works-Matters-ebook/dp/B005ERIRZE/) that the breath is pretty much the only quick fix to more self-control.
-
-So, next time you’re in need of some willpower or are feeling stressed out, just take a moment or two to slow down your breathing to four to six breaths a minute. For example, try breathing in to a count of four and breathing out to a count of eight.
-
-Oh, and while we’re talking about stress, next up is something you want to avoid…
+- Il vantaggio della respirazione è che può essere usato ovunque in ogni momento per superare delle esperienze stressanti
+- Se sotto stress, prendersi un momento e fare 4-6 respiri profondi in un minuto, per esempio inspirando contando fino a 4 ed espirando contando fino ad 8
 
 ## 8. Toughing It Out Doesn’t Work
 
