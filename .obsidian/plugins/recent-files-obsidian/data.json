@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Give and take",
+      "path": "Give and take.md"
+    },
+    {
+      "basename": "2022-01-01",
+      "path": "Note Giornaliere/2022-01-01.md"
+    },
+    {
       "basename": "2021-12-30",
       "path": "Note Giornaliere/2021-12-30.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Money Is the Megaphone of Identity - More To That",
-      "path": "Imported/Money Is the Megaphone of Identity - More To That.md"
-    },
-    {
-      "basename": "✅   TODO",
-      "path": "✅   TODO.md"
     }
   ],
   "omittedPaths": [],

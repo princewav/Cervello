@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2021-12-30.md",
+            "file": "Give and take.md",
             "mode": "source",
             "source": false
           }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2021-12-30.md",
+                "file": "Give and take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2021-12-30.md"
+                "file": "Give and take.md"
               }
             }
           },
@@ -168,6 +167,8 @@
   },
   "active": "34ed5e5f90ef1f2a",
   "lastOpenFiles": [
+    "Give and take.md",
+    "Note Giornaliere/2022-01-01.md",
     "Note Giornaliere/2021-12-30.md",
     "the happiness track.md",
     "Note Giornaliere/2021-12-29.md",
@@ -175,8 +176,6 @@
     "conflict-files-obsidian-git.md",
     "Note Giornaliere/2021-12-28.md",
     "🏠   My Life.md",
-    "so good they can't ignore you.md",
-    "Note Giornaliere/2021-12-16.md",
-    "deep work.md"
+    "so good they can't ignore you.md"
   ]
 }
