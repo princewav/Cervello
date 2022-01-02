@@ -80,13 +80,3 @@ The research shows something else:
 I’ve written about this stuff countless times. If you want greater happiness and success, you need to let go of self-criticism and choose self-compassion.
 
 To get started, I suggest checking out some of my articles on the topic. [Here](https://www.njlifehacks.com/self-compassion-versus-self-criticism/)'s one explaining why self-compassion makes you more successful than self-criticism. [Here](https://www.njlifehacks.com/self-compassion-self-criticism-procrastination/)'s one on how self-compassion helps us overcome procrastination. And [here](https://www.njlifehacks.com/self-compassion-kristin-neff/)'s a book summary of Kristin Neff's book of the same title.
-
-## Further Reading
-
-If you enjoyed this book, you’ll likely enjoy other books on psychology, productivity, and the science of happiness. Some recommendations:
-
--   **_The Happiness Advantage_** by Shawn Achor. Very similar premise to this book: Sacrificing happiness for success doesn’t work. Instead, be happy now and use it to become more successful.
--   [_**Give and Take**_](https://www.njlifehacks.com/give-and-take-adam-grant-summary/) by Adam Grant. Another book on success based on sound psychological science. Shows how being a giver rather than a taker helps you succeed.
--   _**Deep Work**_ by Cal Newport. A book on the science of productivity. Deep work is about maximizing productivity through single-tasking, shunning distractions, and working with as much concentration as you can muster.
-
-And if you want more summaries like this one, check out [Blinkist](https://blinkist.o6eiov.net/5EBY9) for instant access to 2,000+ summaries of the best nonfiction and self-help books ever.
