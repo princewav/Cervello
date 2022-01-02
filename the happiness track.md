@@ -45,9 +45,6 @@
 - Se sotto stress, prendersi un momento e fare 4-6 respiri profondi in un minuto, per esempio inspirando contando fino a 4 ed espirando contando fino ad 8
 
 ## 8. Toughing It Out Doesn’t Work
-
-> “When we feel anxious and can’t talk our way out of stressful thoughts, we often end up suppressing emotions. We put on a poker face and ‘suck it up.’ Research by Stanford psychologist James Gross demonstrates that attempting to suppress emotions (by not showing our emotion) leads to the opposite of what we want. By trying to hide emotions, we actually manifest them more strongly physiologically. For example, anger or stress increase the heart rate and make your palms sweat. Suppressing these emotions increases their physiological impact. In fact, it even impacts the physiology of whoever you are talking with by raising their heart level! Suppressing negative emotions on a regular basis actually makes people experience more negative emotions and less positive emotions. Individuals who tend to suppress have lower self-esteem, optimism, and well-being and higher rates of depression as well as impaired memory. Suppression negatively impacts their relationships and social life.”
-
 - Quando non riusciamo ad esprimere il nostro stato d'ansia, spesso sopprimiamo le nostre emozioni, Studi dimostrano che così si rendono solo più evidenti fisiologicamente. Sul lungo termine porta a danneggiare il proprio benessere mentali nonchè le relazioni sociali
 - La cosa migliore da fare quando si provano emozioni negative è mantenere la calma, accettarle ed etichettarle. Riconoscerle e dargli un nome ci rende più distaccati da esse, ci fa rendere conto che non siamo noi sbagliati, ma stiamo solo provando un'emozione negativa
 
