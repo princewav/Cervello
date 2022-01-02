@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "34ed5e5f90ef1f2a",
+        "id": "bd39c6ebed80c93c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-01.md",
+            "file": "mi dissocio.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "8189dc47fa46ba67"
+      },
+      {
+        "id": "cee1fefbef6e3f66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mi dissocio.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "8189dc47fa46ba67"
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-01.md",
+                "file": "mi dissocio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-01.md"
+                "file": "mi dissocio.md"
               }
             }
           },
@@ -165,17 +179,17 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "34ed5e5f90ef1f2a",
+  "active": "bd39c6ebed80c93c",
   "lastOpenFiles": [
-    "Note Giornaliere/2022-01-01.md",
-    "Note Giornaliere/2021-12-30.md",
-    "Note Giornaliere/2022-01-07.md",
-    "Give and take.md",
-    "the happiness track.md",
-    "Note Giornaliere/2021-12-29.md",
-    "Terminare album Siso.md",
-    "conflict-files-obsidian-git.md",
-    "Note Giornaliere/2021-12-28.md",
-    "🏠   My Life.md"
+    "mi dissocio.md",
+    "Note Giornaliere/2021-12-08.md",
+    "Note Giornaliere/2021-12-07.md",
+    "Note Giornaliere/2021-12-06.md",
+    "Note Giornaliere/2021-12-09.md",
+    "Note Giornaliere/2021-12-10.md",
+    "Note Giornaliere/2021-12-11.md",
+    "Note Giornaliere/2021-12-12.md",
+    "Note Giornaliere/2021-12-13.md",
+    "Note Giornaliere/2021-12-14.md"
   ]
 }
