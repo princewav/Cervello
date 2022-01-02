@@ -57,26 +57,11 @@
 - Per coltivarla, tenere un gratitude journal, in cui si scrivono 3/5 cose di cui si è grati ogni giorno
 
 ## 10. Self-Compassion, NOT Self-Criticism Helps You Thrive
-We talked about success myths at the beginning of this article. Here’s another common one: You need to be critical of yourself and push yourself hard to reach high levels of success.
-
-The research shows something else:
-
-> “Self-compassion – as opposed to self-criticism – helps people thrive and is associated with a host of benefits:
-
--   Greater psychological well-being
--   Less anxiety, depression, and stress
--   More happiness, optimism, curiosity, creativity, and positive emotions
--   Better health
--   Lower cellular inflammation in response to stress
--   Reduced cortisol (a stress-related hormone)
--   Increased heart rate variability, a physiological marker associated with the ability to bounce back faster from stressful situations
--   Improved professional and personal skills
--   Stronger motivation
--   Better relationships with other people
--   Reduced fear of failure and greater willingness to try again
--   Enhanced willpower
--   Greater perspective and reduced tendency to become overwhelmed during times of struggle
-
-I’ve written about this stuff countless times. If you want greater happiness and success, you need to let go of self-criticism and choose self-compassion.
-
-To get started, I suggest checking out some of my articles on the topic. [Here](https://www.njlifehacks.com/self-compassion-versus-self-criticism/)'s one explaining why self-compassion makes you more successful than self-criticism. [Here](https://www.njlifehacks.com/self-compassion-self-criticism-procrastination/)'s one on how self-compassion helps us overcome procrastination. And [here](https://www.njlifehacks.com/self-compassion-kristin-neff/)'s a book summary of Kristin Neff's book of the same title.
+- L'Auto-Compassione, al contrario dell'autocritica, porta al successo nonchè ad una serie di benefici:
+    - Maggior benessere psicologico
+    - Migliore salute
+    - Una motivazione più forte
+    - Migliori relazioni con le altre persone
+    - Ridotta paura di fallire e maggiore disponibilità a riprovare
+    - Maggiore forza di volontà
+    - Maggiore prospettiva e ridotta tendenza a sentirsi sopraffatti durante i periodi di lotta
