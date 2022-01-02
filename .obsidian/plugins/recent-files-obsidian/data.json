@@ -5,6 +5,10 @@
       "path": "the happiness track.md"
     },
     {
+      "basename": "2022-01-02",
+      "path": "Note Giornaliere/2022-01-02.md"
+    },
+    {
       "basename": "new note",
       "path": "new note.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "2022-01-01",
       "path": "Note Giornaliere/2022-01-01.md"
-    },
-    {
-      "basename": "2022-01-02",
-      "path": "Note Giornaliere/2022-01-02.md"
     },
     {
       "basename": "Protocols to Your Morning Routine",

@@ -48,29 +48,17 @@
 
 > “When we feel anxious and can’t talk our way out of stressful thoughts, we often end up suppressing emotions. We put on a poker face and ‘suck it up.’ Research by Stanford psychologist James Gross demonstrates that attempting to suppress emotions (by not showing our emotion) leads to the opposite of what we want. By trying to hide emotions, we actually manifest them more strongly physiologically. For example, anger or stress increase the heart rate and make your palms sweat. Suppressing these emotions increases their physiological impact. In fact, it even impacts the physiology of whoever you are talking with by raising their heart level! Suppressing negative emotions on a regular basis actually makes people experience more negative emotions and less positive emotions. Individuals who tend to suppress have lower self-esteem, optimism, and well-being and higher rates of depression as well as impaired memory. Suppression negatively impacts their relationships and social life.”
 
-Quando non riusciamo ad esprimere il nostro stato d'ansia, spesso sopprimiamo le nostre emozioni, Studi dimostrano che così si rendono solo più evidenti fisiologicamente. Sul lungo termine porta a danneggiare il proprio benessere mentali nonchè le relazioni sociali.
-La cosa migliore da fare quando si provan o
-This research comes out of a field called _emotion regulation_. I learned about it in the great book [_Your Brain at Work_](https://www.amazon.com/Your-Brain-Work-Strategies-Distraction-ebook/dp/B002Q1YE3K/) by David Rock. Researchers in this field have found that negative emotions can have a detrimental effect on our health, performance, and general well-being and they’re trying to figure out how best to deal with those negative emotions.
-
-One way of dealing with them is suppression – as we just learned, a bad idea. So, what should you do next time you’re feeling angry, sad, anxious, or otherwise bad? There are several strategies that work, but the easiest one is to just label the feeling.
-
-You just say to yourself, “Oh, that’s anger.” Or, “Oh, I’m feeling a bit sad.”
-
-You label the negative emotion. While this may not sound very helpful, it actually is. The reason it works is because it creates a distance between you and the emotion. You’re not so identified with it anymore and thus less reactive to it. In addition to that, labeling emotions has been shown to activate the prefrontal cortex – the seat of your willpower and other cognitive processes.
-
-I can’t go into details here. But next time you’re experiencing negative emotions, don’t try to suppress them – it doesn’t work, anyway. Instead, accept them and put a label on them. And then go about your normal life.
+- Quando non riusciamo ad esprimere il nostro stato d'ansia, spesso sopprimiamo le nostre emozioni, Studi dimostrano che così si rendono solo più evidenti fisiologicamente. Sul lungo termine porta a danneggiare il proprio benessere mentali nonchè le relazioni sociali.
+- La cosa migliore da fare quando si provano emozioni negative è mantenere la calma, accettarle ed etichettarle. Riconoscerle e dargli un nome ci rende più distaccati da esse, ci fa rendere conto che non siamo noi sbagliati, ma stiamo solo provando un'emozione negativa.
 
 ## 9. Practice Gratitude to Boost Well-Being and Strengthen Professional Skills
-
-> “Research supports the idea that gratitude has tremendous benefits; gratitude not only boosts your well-being but also significantly strengthens professional skills.
+- La gratitudine migliora il benessere fisiologico: migliora 
 
 > Grater physiological well-being and health: improved positive emotion, longer-lasting positive emotion, buffering against stress and negativity, decreased anxiety and depression, reduced materialism (and materialism is linked to lower levels of well-being), improved sleep quality and duration, in part because you have more grateful thoughts before you go to sleep.
 
 > Improved professional skills: higher social intelligence, improved relationships, likeability (gratitude makes you a kinder, more altruistic, moral, and ethical person), strengthened willpower, better long-term decision making, increased positive influence on others, who become more ethical and act with greater integrity and greater kindness.”
 
-Some people call gratitude the most powerful human emotion that exists. Whether that’s true or not is debatable. The fact that it _is_ indeed powerful and highly beneficial is not.
-
-Check out Robert Emmons’ book [_Thanks!_](https://www.amazon.com/Thanks-Practicing-Gratitude-Make-Happier/dp/0547085737/) (summary [here](https://www.njlifehacks.com/thanks-robert-emmons-book-summary/)) to find out more about the science of gratitude and how to apply it in your own life. The easiest way to get started with cultivating more gratitude in your life is to keep a so-called gratitude journal, in which you write down 3-5 things you’re grateful for every day. Yup, that’s all it takes!
+The easiest way to get started with cultivating more gratitude in your life is to keep a so-called gratitude journal, in which you write down 3-5 things you’re grateful for every day. Yup, that’s all it takes!
 
 ## 10. Self-Compassion, NOT Self-Criticism Helps You Thrive
 
