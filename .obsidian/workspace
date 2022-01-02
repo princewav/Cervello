@@ -7,8 +7,12 @@
         "id": "715ccfab4de715df",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "the happiness track.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -101,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "753a9456ee8e57fa",
@@ -114,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "the happiness track.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "the happiness track.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   },
   "active": "715ccfab4de715df",
   "lastOpenFiles": [
+    "the happiness track.md",
     "new note.md",
     "Note Giornaliere/2021-12-08.md",
     "Note Giornaliere/2021-12-07.md",
@@ -168,7 +177,6 @@
     "Note Giornaliere/2021-12-10.md",
     "Note Giornaliere/2021-12-11.md",
     "Note Giornaliere/2021-12-12.md",
-    "Note Giornaliere/2021-12-13.md",
-    "Note Giornaliere/2021-12-14.md"
+    "Note Giornaliere/2021-12-13.md"
   ]
 }
