@@ -48,20 +48,15 @@
 
 > “When we feel anxious and can’t talk our way out of stressful thoughts, we often end up suppressing emotions. We put on a poker face and ‘suck it up.’ Research by Stanford psychologist James Gross demonstrates that attempting to suppress emotions (by not showing our emotion) leads to the opposite of what we want. By trying to hide emotions, we actually manifest them more strongly physiologically. For example, anger or stress increase the heart rate and make your palms sweat. Suppressing these emotions increases their physiological impact. In fact, it even impacts the physiology of whoever you are talking with by raising their heart level! Suppressing negative emotions on a regular basis actually makes people experience more negative emotions and less positive emotions. Individuals who tend to suppress have lower self-esteem, optimism, and well-being and higher rates of depression as well as impaired memory. Suppression negatively impacts their relationships and social life.”
 
-- Quando non riusciamo ad esprimere il nostro stato d'ansia, spesso sopprimiamo le nostre emozioni, Studi dimostrano che così si rendono solo più evidenti fisiologicamente. Sul lungo termine porta a danneggiare il proprio benessere mentali nonchè le relazioni sociali.
-- La cosa migliore da fare quando si provano emozioni negative è mantenere la calma, accettarle ed etichettarle. Riconoscerle e dargli un nome ci rende più distaccati da esse, ci fa rendere conto che non siamo noi sbagliati, ma stiamo solo provando un'emozione negativa.
+- Quando non riusciamo ad esprimere il nostro stato d'ansia, spesso sopprimiamo le nostre emozioni, Studi dimostrano che così si rendono solo più evidenti fisiologicamente. Sul lungo termine porta a danneggiare il proprio benessere mentali nonchè le relazioni sociali
+- La cosa migliore da fare quando si provano emozioni negative è mantenere la calma, accettarle ed etichettarle. Riconoscerle e dargli un nome ci rende più distaccati da esse, ci fa rendere conto che non siamo noi sbagliati, ma stiamo solo provando un'emozione negativa
 
 ## 9. Practice Gratitude to Boost Well-Being and Strengthen Professional Skills
-- La gratitudine migliora il benessere fisiologico: migliora 
-
-> Grater physiological well-being and health: improved positive emotion, longer-lasting positive emotion, buffering against stress and negativity, decreased anxiety and depression, reduced materialism (and materialism is linked to lower levels of well-being), improved sleep quality and duration, in part because you have more grateful thoughts before you go to sleep.
-
-> Improved professional skills: higher social intelligence, improved relationships, likeability (gratitude makes you a kinder, more altruistic, moral, and ethical person), strengthened willpower, better long-term decision making, increased positive influence on others, who become more ethical and act with greater integrity and greater kindness.”
-
-The easiest way to get started with cultivating more gratitude in your life is to keep a so-called gratitude journal, in which you write down 3-5 things you’re grateful for every day. Yup, that’s all it takes!
+- La gratitudine migliora il benessere fisiologico: migliora l'emozioni positive a discapito dello stress, diminuisce ansia, depressione e materialismo. Migliora il sonno perchè si hanno pensieri più benevoli prima di andare a dormire
+- Aumenta l'intelligenza sociale e migliora le relazioni, perchè la gratitudine ci rende più gentili ed etici. Migliora la forza di volontà, le decisioni a lungo termine e l'influenza positiva che abbiamo sugli altri
+- Per coltivarla, tenere un gratitude journal, in cui si scrivono 3/5 cose di cui si è grati ogni giorno
 
 ## 10. Self-Compassion, NOT Self-Criticism Helps You Thrive
-
 We talked about success myths at the beginning of this article. Here’s another common one: You need to be critical of yourself and push yourself hard to reach high levels of success.
 
 The research shows something else:
