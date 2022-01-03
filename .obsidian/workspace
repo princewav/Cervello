@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Work.md",
+            "file": "Give and take.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deep Work.md",
+            "file": "Give and take.md",
             "mode": "preview",
             "source": false
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deep Work.md",
+                "file": "Give and take.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deep Work.md"
+                "file": "Give and take.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "c67b0af05a31b66d",
   "lastOpenFiles": [
+    "Give and take.md",
+    "So Good They Can't Ignore You.md",
     "Deep Work.md",
     "Why you are always tired.md",
     "20 Things I Learned In My 20s.md",
@@ -189,8 +191,6 @@
     "5 Common Mistakes That Make You Seem Boring.md",
     "storico inserzionista.md",
     "Best practices.md",
-    "How To Stop Your Mental Health From Collapsing In Your 20s.md",
-    "Note Giornaliere/2021-12-03.md",
-    "Piano vacanze di natale.md"
+    "How To Stop Your Mental Health From Collapsing In Your 20s.md"
   ]
 }

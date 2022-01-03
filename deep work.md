@@ -28,13 +28,13 @@
 - Abbiamo bisogno di creare routine e abitudini per ridurre al minimo la quantità di forza di volontà necessaria per iniziare e mantenere un blocco di concentrazione ininterrotta
 - 4 modi:
 	- monastico: isolarsi completamente, come un monaco
-	- bimodale: alternando periodi di isolamento a periodi sociali
+	- bimodale: alternando periodi (es. 1 settimana) di isolamento a periodi sociali
 	- ritmico: fare deep work in periodi fissati della giornata
 	- giornalistico: far rientrare il deep work nei propri piani quando possibile, magari prima di una deadline.
 
 ## Say “Yes” to the Wildly Important
-- Più cerchi di fare, meno porti a termine
-- Avere pochi importanti obiettivi. La semplicità aiuta a mantere la concentrazione per ottenere veri risultati.
+- Più cose cerchi di fare, meno cose porti a termine
+- Avere pochi obiettivi ma importanti. La semplicità aiuta a mantenere la concentrazione per ottenere veri risultati.
 - E' più facile resistere alle distrazioni se si ha un grande risultato da raggiungere
 
 ## The Value of Systematic Idleness
@@ -42,14 +42,14 @@
 - Il riposo della mente migliora la qualità del deep work
 	- Il riposo porta ad approfondire. La mente inconscia spesso aiuta a sciogliere dei dubbi se lasciata correre.
 	- Il riposo ricarica l'energia necessaria al deep work, ossia l'attenzione diretta, che è una risorsa limitata.
-	- Il lavoro che viene sostituito dal riposo probabilmente è poco importante, perchè la mente stanca avrebbe lavorato male.
-- Riposarsi non significa praticare shallow work o cedere alle distrazioni, o ancor peggio concentrarsi su un'altra attività.
+	- Il lavoro che viene sostituito dal riposo probabilmente è poco importante, perché la mente stanca avrebbe lavorato male.
+- Riposarsi non significa praticare shallow work o cedere alle distrazioni, o ancor peggio concentrarsi in modo diretto su un'altra attività.
 - Alla fine del tuo lavoro, blocca ogni pensiero relativo al lavoro fino alla mattina seguente
 
 ## Get More Done in Less Time With _Roosevelt Dashes_
 - Inserire piccoli e occasionali "scatti" di deep work.
-- Identifica una task e stima il tempo necessaria a farla, dopodichè imponiti un tempo molto minore per finirla, aiutandoti anche con un timer. Questo ti forzerà a lavorare alla task sforzando ogni neurone ed evitando qualsiasi distrazione.
+- Identifica una task e stima il tempo necessaria a farla, dopodiché imponiti un tempo molto minore per finirla, aiutandoti anche con un timer. Questo ti forzerà a lavorare alla task sforzando ogni neurone ed evitando qualsiasi distrazione.
 
 ## The Deep Life
-- La vita profonda non è per tutti, richiede duro lavoro e cambi drastici alle tue abitudini. Devi lasciarti indietro tutto lo shallow work (rapidi messaggi, social media). C'è un po' di disagio nel fare le cose al meglio possibile, perchè ti può far realizzare la possibilità che il tuo meglio non sia (ancora) così buono.
+- La vita profonda non è per tutti, richiede duro lavoro e cambi drastici alle tue abitudini. Devi lasciarti indietro tutto lo shallow work (rapidi messaggi, social media). C'è un po' di disagio nel fare le cose al meglio possibile, perché ti può far realizzare la possibilità che il tuo meglio non sia (ancora) così buono.
 - Però se vuoi seriamente massimizzare la produttività e le capacità della tua mende compiendo grandi opere, non ci sono altre vie che quella della "Deep Life"
