@@ -11,13 +11,13 @@
 
 ## 2. The Benefits of Being Present
 - **Essere presenti rende più produttivi**. Il multitasking non funziona, al contrario dell'immergersi completamente nella task corrente.
-- **Essere presenti rende più felici**. Una mente che rimugina è infelice. Una mente immersa appieno in un'attività, invece, ce la fa godere, per quanto sia noiosa.
+- **Essere presenti rende più felici**. Una mente che rimugina è infelice. Una mente immersa appieno in un'attività, invece, riesce a godersela, per quanto sia noiosa.
 - **Essere presenti ci rende carismatici**. Fa molto più colpo una persona che dà piene attenzioni ed è convolta attivamente nella conversazione, piuttosto che una distratta, con sguardo perso nel vuoto.
 
 ## 3. How to Bring Your Mind Into the Present
 - Visto che siamo sempre persi nei nostri pensieri e ci teniamo sempre occupati non diamo attenzione al momento presente
 - Non sempre riusciamo ad accorgerci che ci stiamo alienando, ma con la meditazione possiamo allenare questa consapevolezza.
-- Quando ci se ne rende conto, non bisogna incolparsi per essersi distratti. Invece, bisogna riportare con tranquillità e rapidità la propria mente al momento presente.
+- Quando ci se ne rende conto, non bisogna incolparsi per essersi distratti. Invece, bisogna riportare con rapidità e tranquillità la propria mente al momento presente.
 - Essere presenti significa vivere appieno l'esperienza, essere completamente vigile, dare attenzione a ciò che succede.
 
 ## 4. Multitasking Is a Bad Idea

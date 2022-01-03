@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminare album Siso.md",
+            "file": "Per il meme EP.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "753a9456ee8e57fa",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminare album Siso.md",
+                "file": "Per il meme EP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminare album Siso.md"
+                "file": "Per il meme EP.md"
               }
             }
           },
@@ -161,7 +161,8 @@
   },
   "active": "345d27163f19198f",
   "lastOpenFiles": [
-    "Terminare album Siso.md",
+    "Per il meme EP.md",
+    "the happiness track.md",
     "Prof & Mingolo 2.md",
     "🏠   My Life.md",
     "Note Giornaliere/2021-12-28.md",
@@ -169,7 +170,6 @@
     "Note Giornaliere/2021-12-26.md",
     "deep work.md",
     "2017 Personalità 01 - Introduzione.md",
-    "Note Giornaliere/2021-12-16.md",
-    "Piano vacanze di natale.md"
+    "Note Giornaliere/2021-12-16.md"
   ]
 }
