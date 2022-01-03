@@ -8,6 +8,12 @@
   "attachmentFolderPath": "Allegati",
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheck": false,
-  "useTab": false
+  "spellcheck": true,
+  "useTab": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

@@ -12,6 +12,11 @@
       "icon": "codeblock-glyph"
     },
     {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
       "id": "cmenu-plugin:editor:toggle-highlight",
       "name": "cMenu: Toggle highlight",
       "icon": "highlight-glyph"
@@ -21,5 +26,5 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 2,
-  "cMenuNumRows": 3
+  "cMenuNumRows": 4
 }
