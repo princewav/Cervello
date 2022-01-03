@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Protocols to Your Morning Routine.md",
+            "file": "6 Things I Wish I'd Learned At 20 - Robin Sharma.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "20-20",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "753a9456ee8e57fa",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols to Your Morning Routine.md",
+                "file": "6 Things I Wish I'd Learned At 20 - Robin Sharma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols to Your Morning Routine.md"
+                "file": "6 Things I Wish I'd Learned At 20 - Robin Sharma.md"
               }
             }
           },
@@ -163,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 322,
+    "collapsed": true
   },
   "active": "715ccfab4de715df",
   "lastOpenFiles": [
-    "Protocols to Your Morning Routine.md",
-    "Note Giornaliere/2022-01-02.md",
-    "Note Giornaliere/2022-01-01.md",
-    "Note Giornaliere/2022-01-07.md",
-    "The Happiness Track.md",
-    "new note.md",
-    "Note Giornaliere/2021-12-08.md",
-    "Note Giornaliere/2021-12-07.md",
-    "Note Giornaliere/2021-12-06.md",
-    "Note Giornaliere/2021-12-09.md"
+    "6 Things I Wish I'd Learned At 20 - Robin Sharma.md",
+    "5 Common Mistakes That Make You Seem Boring.md",
+    "20 Things I Learned In My 20s.md",
+    "storico inserzionista.md",
+    "Best practices.md",
+    "How To Stop Your Mental Health From Collapsing In Your 20s.md",
+    "Note Giornaliere/2021-12-03.md",
+    "Piano vacanze di natale.md",
+    "2017 Personalità 01 - Introduzione.md",
+    "7 LIFE LESSONS FROM MY 30s - how life changes in your 30s.md"
   ]
 }

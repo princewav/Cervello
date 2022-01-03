@@ -1,6 +1,6 @@
 [6 Things I Wish I'd Learned At 20 - Robin Sharma](https://www.youtube.com/watch?v=7N8SyduUyVw&list=WL&index=7 "6 Things I Wish I'd Learned At 20 | Robin Sharma")
 
-### Puoi stare con persone tossice o vivere bene, non entrambe
+### Puoi stare con persone tossiche o vivere bene, non entrambe
 - Non circondarti da "Vampiri di energia". Allontana chi ti ruba gioia.
 - "Joy as GPS". Fare una lista: in una colonna, chi mi ruba la gioia? In un'altra, chi l'aumenta? E se è un mio migliore amico o un parente? Fai associazione selettiva, invece di parlargli tutti i giorni, parlagli una volta a settimana ecc.
 
