@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Give and take.md",
+            "file": "Protocols to Your Morning Routine.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Give and take.md",
+            "file": "Protocols to Your Morning Routine.md",
             "mode": "preview",
             "source": false
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Give and take.md",
+                "file": "Protocols to Your Morning Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Give and take.md"
+                "file": "Protocols to Your Morning Routine.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "c67b0af05a31b66d",
   "lastOpenFiles": [
+    "Protocols to Your Morning Routine.md",
+    "The Happiness Track.md",
     "Give and take.md",
     "So Good They Can't Ignore You.md",
     "Deep Work.md",
@@ -189,8 +191,6 @@
     "20 Things I Learned In My 20s.md",
     "6 Things I Wish I'd Learned At 20 - Robin Sharma.md",
     "5 Common Mistakes That Make You Seem Boring.md",
-    "storico inserzionista.md",
-    "Best practices.md",
-    "How To Stop Your Mental Health From Collapsing In Your 20s.md"
+    "storico inserzionista.md"
   ]
 }
