@@ -4,28 +4,28 @@
 
 ## What Is Deep Work?
 - lavorare in uno stato di concentrazione priva di distrazione che massimizza le capacità cognitive. Sforzi difficili da replicare, creano valore e migliorano le skill.
-- è opposto allo **shallow work**, non cognitivamente impegnativo, spesso compiuto da distratti. Sforzi facili da replicare che non creano valore.
+- è opposto allo ***shallow work***, non cognitivamente impegnativo, spesso compiuto da distratti. Sforzi facili da replicare che non creano valore.
 
 ## Why Deep Work Is Rare, Yet Highly Valuable
 - Il deep work è una skill sempre più rara e preziosa.
-	- Raro perchè lo shallow work è più facile e anche incoraggiato dalle aziende (risposte veloci, sempre connessi, uffici condivisi).
+	- Raro perché lo shallow work è più facile e anche incoraggiato dalle aziende (risposte veloci, sempre connessi, uffici condivisi).
 	- L'assenza di indicatori di produttività in azienda porta i lavoratori a fare tante  cose in maniera visibile: è un modo per farsi notare, ma quantità != qualità
 - Consiste nel lavorare ad una sola cosa (_single tasking_), senza distrazioni, con intensa concentrazione e per periodi di tempo estesi.
 
 ## Beware of Attention Residue
-- ogni volta che si passa da una task ad un altra, un residuo di attenzione rimane sulla task precedente, quindi ogni volta che lo si fa si perde un po' di produttività.
+- Ogni volta che si passa da una task ad un altra, un residuo di attenzione rimane sulla task precedente, quindi ogni volta che lo si fa si perde un po' di produttività.
 
 ## Deep work is a skill
-- è una skill che va allenata, in particolare: l'abilità di concentrarsi intensivamente e quella di resistere al desiderio di distrazione.
+- È una skill che va allenata, in particolare: l'abilità di concentrarsi intensivamente e quella di resistere al desiderio di distrazione.
 
 ## The Four Rules of Deep Work
-1. Work Deeply: avendo una natura faticosa ed avendo noi una quantità di forza di volontà limitata il deep work va favorito tramite delle routine che facilitano il processo.
-2. Embrace Boredom: bisogna curare la concentrazione anche al di fuori del lavoro. Se cedi alle distrazioni al primo accenno di noia, non avrai la giusta concentrazione per il deep work.
-3. Quit Social Media: sono il maggiore esempio di _shallow living_. E' simile ad una dipendenza, non si può applicare il deep work se si sente la necesità di controllarli ogni minuto.
-4. Drain the Shallows: pianifica il tempo da dedicare al deep work e impiega il minor tempo possibile allo shallow work, in modo che non interferisca.
+1. *Work Deeply*: avendo una natura faticosa ed avendo noi una quantità di forza di volontà limitata il deep work va favorito tramite delle routine che facilitano il processo.
+2. *Embrace Boredom*: bisogna curare la concentrazione anche al di fuori del lavoro. Se cedi alle distrazioni al primo accenno di noia, non avrai la giusta concentrazione per il deep work.
+3. *Quit Social Media*: sono il maggiore esempio di _shallow living_. E' simile ad una dipendenza, non si può applicare il deep work se si sente la necessita di controllarli ogni minuto.
+4. *Drain the Shallows*: pianifica il tempo da dedicare al deep work e impiega il minor tempo possibile allo shallow work, in modo che non interferisca.
 
 ## Use Routines to Ritualize Deep Work
-- abbiamo bisogno di creare routine per ridurre al minimo la quantità di forza di volontà necessaria per iniziare e mantenere un blocco di concentrazione ininterrotta
+- Abbiamo bisogno di creare routine e abitudini per ridurre al minimo la quantità di forza di volontà necessaria per iniziare e mantenere un blocco di concentrazione ininterrotta
 - 4 modi:
 	- monastico: isolarsi completamente, come un monaco
 	- bimodale: alternando periodi di isolamento a periodi sociali

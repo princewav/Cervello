@@ -14,7 +14,7 @@
 
 ### Quando controlli le tue mattinate, elevi la tua vita
 - Impari ad iniziare bene la tua giornata. Quando inizi la tua giornata prima dell'alba hai un vantaggio competitivo. Non ci sono persone né traffico e puoi pensare.
-- "Tranquillity is the new luxury"
+- "*Tranquillity is the new luxury*"
 - Formula "20-20-20":
 	- Svegliarsi alle 6 
 	- 20 min di esercizio fisico, 20 minuti di riflessione, 20 minuti di crescita personale

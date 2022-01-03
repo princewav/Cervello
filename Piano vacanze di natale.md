@@ -8,7 +8,7 @@
 ---
 ## Musica:
 #### Per il meme EP
-- Evitare qualsiasi distrazione: [[deep work]]
+- Evitare qualsiasi distrazione: [[Deep Work]]
 	- Individuare cosa mi distrae, scriverlo qui, capire la causa, eliminarlo.
 		- messaggi whatsapp
 		- youtube
