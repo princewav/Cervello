@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-01.md",
+            "file": "Protocols to Your Morning Routine.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-01.md",
+                "file": "Protocols to Your Morning Routine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-01.md"
+                "file": "Protocols to Your Morning Routine.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "715ccfab4de715df",
   "lastOpenFiles": [
-    "Note Giornaliere/2022-01-01.md",
-    "Note Giornaliere/2022-01-02.md",
-    "Note Giornaliere/2022-01-07.md",
     "Protocols to Your Morning Routine.md",
+    "Note Giornaliere/2022-01-02.md",
+    "Note Giornaliere/2022-01-01.md",
+    "Note Giornaliere/2022-01-07.md",
     "The Happiness Track.md",
     "new note.md",
     "Note Giornaliere/2021-12-08.md",
