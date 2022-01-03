@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Protocols to Your Morning Routine.md",
+            "file": "Note Giornaliere/2022-01-03.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Protocols to Your Morning Routine.md",
+            "file": "Note Giornaliere/2022-01-03.md",
             "mode": "preview",
             "source": false
           }
@@ -119,8 +119,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols to Your Morning Routine.md",
+                "file": "Note Giornaliere/2022-01-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protocols to Your Morning Routine.md"
+                "file": "Note Giornaliere/2022-01-03.md"
               }
             }
           },
@@ -182,6 +181,7 @@
   },
   "active": "c67b0af05a31b66d",
   "lastOpenFiles": [
+    "Note Giornaliere/2022-01-03.md",
     "Protocols to Your Morning Routine.md",
     "The Happiness Track.md",
     "Give and take.md",
@@ -190,7 +190,6 @@
     "Why you are always tired.md",
     "20 Things I Learned In My 20s.md",
     "6 Things I Wish I'd Learned At 20 - Robin Sharma.md",
-    "5 Common Mistakes That Make You Seem Boring.md",
-    "storico inserzionista.md"
+    "5 Common Mistakes That Make You Seem Boring.md"
   ]
 }
