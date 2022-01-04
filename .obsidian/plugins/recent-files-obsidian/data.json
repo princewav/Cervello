@@ -5,6 +5,10 @@
       "path": "Note Giornaliere/2022-01-04.md"
     },
     {
+      "basename": "2022-01-05",
+      "path": "Note Giornaliere/2022-01-05.md"
+    },
+    {
       "basename": "2022-01-03",
       "path": "Note Giornaliere/2022-01-03.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "Money Is the Megaphone of Identity - More To That",
-      "path": "Imported/Money Is the Megaphone of Identity - More To That.md"
     }
   ],
   "omittedPaths": [],
