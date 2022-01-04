@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-03.md",
+            "file": "Note Giornaliere/2022-01-04.md",
             "mode": "source",
             "source": false
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-03.md",
+                "file": "Note Giornaliere/2022-01-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-03.md"
+                "file": "Note Giornaliere/2022-01-04.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "345d27163f19198f",
   "lastOpenFiles": [
+    "Note Giornaliere/2022-01-04.md",
     "Note Giornaliere/2022-01-03.md",
     "Per il meme EP.md",
     "conflict-files-obsidian-git.md",
@@ -169,7 +170,6 @@
     "20 Things I Learned In My 20s.md",
     "Give and take.md",
     "Prof & Mingolo 2.md",
-    "🏠   My Life.md",
-    "Note Giornaliere/2021-12-28.md"
+    "🏠   My Life.md"
   ]
 }
