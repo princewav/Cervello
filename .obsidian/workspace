@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-07.md",
+            "file": "Note Giornaliere/2022-01-05.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-07.md",
+                "file": "Note Giornaliere/2022-01-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-07.md"
+                "file": "Note Giornaliere/2022-01-05.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "c67b0af05a31b66d",
   "lastOpenFiles": [
-    "Note Giornaliere/2022-01-07.md",
     "Note Giornaliere/2022-01-05.md",
+    "Note Giornaliere/2022-01-07.md",
     "presentazione per l'ep.md",
     "Note Giornaliere/2022-01-03.md",
     "Protocols to Your Morning Routine.md",
