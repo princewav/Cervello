@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "presentazione per l'ep.md",
+            "file": "Note Giornaliere/2022-01-07.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "presentazione per l'ep.md",
+                "file": "Note Giornaliere/2022-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "presentazione per l'ep.md"
+                "file": "Note Giornaliere/2022-01-07.md"
               }
             }
           },
@@ -167,15 +167,15 @@
   },
   "active": "c67b0af05a31b66d",
   "lastOpenFiles": [
-    "presentazione per l'ep.md",
+    "Note Giornaliere/2022-01-07.md",
     "Note Giornaliere/2022-01-05.md",
+    "presentazione per l'ep.md",
     "Note Giornaliere/2022-01-03.md",
     "Protocols to Your Morning Routine.md",
     "The Happiness Track.md",
     "Give and take.md",
     "So Good They Can't Ignore You.md",
     "Deep Work.md",
-    "Why you are always tired.md",
-    "20 Things I Learned In My 20s.md"
+    "Why you are always tired.md"
   ]
 }
