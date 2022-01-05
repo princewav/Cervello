@@ -1,9 +1,7 @@
 {
   "pinned": [
     "obsidian-text-format:text-format-titlecase",
-    "obsidian-emoji-toolbar:emoji-picker:open-picker",
-    "url-into-selection:paste-url-into-selection",
-    "obsidian-text-format:text-format-remove-spaces",
-    "obsidian-git:push"
+    "obsidian-git:push",
+    "obsidian-text-format:text-format-remove-spaces"
   ]
 }
