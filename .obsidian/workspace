@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c67b0af05a31b66d",
+        "id": "345d27163f19198f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-05.md",
+            "file": "call con siso.md",
             "mode": "source",
             "source": false
           }
@@ -21,22 +21,7 @@
   "left": {
     "id": "0658748dc9302a11",
     "type": "split",
-    "children": [
-      {
-        "id": "323b2c71e09bcf02",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5cb54dcb51bb25c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 111,
     "collapsed": true
@@ -48,8 +33,39 @@
       {
         "id": "3e64b49af3e97356",
         "type": "tabs",
-        "dimension": 45.10250569476082,
+        "dimension": 54.36363636363636,
         "children": [
+          {
+            "id": "66944530a5ea8340",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "763fbdb0ec60290c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6d7f4806610b58d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
           {
             "id": "6e56f9069939c2e0",
             "type": "leaf",
@@ -67,50 +83,28 @@
             }
           },
           {
+            "id": "c5cb54dcb51bb25c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "e6f89e7b7cd1d721",
             "type": "leaf",
             "state": {
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "c6d7f4806610b58d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "20-20",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "763fbdb0ec60290c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "66944530a5ea8340",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "753a9456ee8e57fa",
         "type": "tabs",
-        "dimension": 54.89749430523918,
+        "dimension": 45.63636363636363,
         "children": [
           {
             "id": "9dd4ab93a73582c9",
@@ -118,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-05.md",
+                "file": "call con siso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,12 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-05.md"
+                "file": "call con siso.md"
               }
             }
           },
           {
-            "id": "6b58ebd622bfe94a",
+            "id": "c3cdf55ca9159716",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -165,17 +159,17 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "c67b0af05a31b66d",
+  "active": "345d27163f19198f",
   "lastOpenFiles": [
+    "call con siso.md",
+    "Note Giornaliere/2022-01-04.md",
     "Note Giornaliere/2022-01-05.md",
-    "Note Giornaliere/2022-01-07.md",
-    "presentazione per l'ep.md",
     "Note Giornaliere/2022-01-03.md",
+    "Per il meme EP.md",
+    "conflict-files-obsidian-git.md",
     "Protocols to Your Morning Routine.md",
-    "The Happiness Track.md",
-    "Give and take.md",
-    "So Good They Can't Ignore You.md",
-    "Deep Work.md",
-    "Why you are always tired.md"
+    "the happiness track.md",
+    "20 Things I Learned In My 20s.md",
+    "Give and take.md"
   ]
 }
