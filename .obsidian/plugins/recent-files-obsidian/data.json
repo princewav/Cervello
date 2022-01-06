@@ -5,6 +5,10 @@
       "path": "Note Giornaliere/2022-01-06.md"
     },
     {
+      "basename": "Spese mensili",
+      "path": "Spese mensili.md"
+    },
+    {
       "basename": "tim mobile",
       "path": "tim mobile.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-30",
       "path": "Note Giornaliere/2021-12-30.md"
-    },
-    {
-      "basename": "🏠   My Life",
-      "path": "🏠   My Life.md"
     }
   ],
   "omittedPaths": [],

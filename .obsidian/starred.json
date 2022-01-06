@@ -24,6 +24,11 @@
       "type": "file",
       "title": "💪  Skill",
       "path": "Skill.md"
+    },
+    {
+      "type": "file",
+      "title": "spese mensili",
+      "path": "Spese mensili.md"
     }
   ]
 }
