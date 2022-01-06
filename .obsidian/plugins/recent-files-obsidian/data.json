@@ -5,6 +5,10 @@
       "path": "Note Giornaliere/2022-01-06.md"
     },
     {
+      "basename": "tim mobile",
+      "path": "tim mobile.md"
+    },
+    {
       "basename": "2022-01-05",
       "path": "Note Giornaliere/2022-01-05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "🏠   My Life",
       "path": "🏠   My Life.md"
-    },
-    {
-      "basename": "🖥️   Lavoro",
-      "path": "🖥️   Lavoro.md"
     }
   ],
   "omittedPaths": [],
