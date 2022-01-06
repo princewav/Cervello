@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-06.md",
+            "file": "How I fall asleep in 11 minutes.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-06.md",
+            "file": "How I fall asleep in 11 minutes.md",
             "mode": "preview",
             "source": false
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-06.md",
+                "file": "How I fall asleep in 11 minutes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-06.md"
+                "file": "How I fall asleep in 11 minutes.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "2197d88b9b07d915",
   "lastOpenFiles": [
+    "How I fall asleep in 11 minutes.md",
     "Note Giornaliere/2022-01-06.md",
     "Note Giornaliere/2022-01-07.md",
     "Note Giornaliere/2021-12-03.md",
@@ -189,7 +190,6 @@
     "correzione timbrature.md",
     "Note Giornaliere/2022-01-10.md",
     "Note Giornaliere/2022-01-05.md",
-    "Note Giornaliere/2022-01-03.md",
-    "tim mobile.md"
+    "Note Giornaliere/2022-01-03.md"
   ]
 }
