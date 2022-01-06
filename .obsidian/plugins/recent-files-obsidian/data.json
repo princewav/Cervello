@@ -9,16 +9,24 @@
       "path": "Note Giornaliere/2022-01-07.md"
     },
     {
+      "basename": "2021-12-03",
+      "path": "Note Giornaliere/2021-12-03.md"
+    },
+    {
+      "basename": "20 Things I Learned In My 20s",
+      "path": "20 Things I Learned In My 20s.md"
+    },
+    {
+      "basename": "correzione timbrature",
+      "path": "correzione timbrature.md"
+    },
+    {
       "basename": "2022-01-10",
       "path": "Note Giornaliere/2022-01-10.md"
     },
     {
       "basename": "2022-01-05",
       "path": "Note Giornaliere/2022-01-05.md"
-    },
-    {
-      "basename": "correzione timbrature",
-      "path": "correzione timbrature.md"
     },
     {
       "basename": "2022-01-03",
@@ -61,10 +69,6 @@
       "path": "Why you are always tired.md"
     },
     {
-      "basename": "20 Things I Learned In My 20s",
-      "path": "20 Things I Learned In My 20s.md"
-    },
-    {
       "basename": "6 Things I Wish I'd Learned At 20 - Robin Sharma",
       "path": "6 Things I Wish I'd Learned At 20 - Robin Sharma.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "How To Stop Your Mental Health From Collapsing In Your 20s",
       "path": "How To Stop Your Mental Health From Collapsing In Your 20s.md"
-    },
-    {
-      "basename": "2021-12-03",
-      "path": "Note Giornaliere/2021-12-03.md"
     },
     {
       "basename": "Piano vacanze di natale",
@@ -195,10 +195,6 @@
     {
       "basename": "2021-12-27",
       "path": "Note Giornaliere/2021-12-27.md"
-    },
-    {
-      "basename": "2021-12-28",
-      "path": "Note Giornaliere/2021-12-28.md"
     }
   ],
   "omittedPaths": [],
