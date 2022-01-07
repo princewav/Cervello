@@ -7,7 +7,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "Allegati",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "spellcheck": false,
   "useTab": false,
   "pdfExportSettings": {
