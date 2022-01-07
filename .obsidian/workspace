@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Stop Feeling Tired in the Afternoon.md",
+            "file": "Note Giornaliere/2022-01-06.md",
             "mode": "source",
             "source": true
           }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Stop Feeling Tired in the Afternoon.md",
+                "file": "Note Giornaliere/2022-01-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to Stop Feeling Tired in the Afternoon.md"
+                "file": "Note Giornaliere/2022-01-06.md"
               }
             }
           },
@@ -168,9 +167,9 @@
   },
   "active": "e66ac3169fd6304a",
   "lastOpenFiles": [
-    "How to Stop Feeling Tired in the Afternoon.md",
     "Note Giornaliere/2022-01-06.md",
     "Note Giornaliere/2022-01-07.md",
+    "How to Stop Feeling Tired in the Afternoon.md",
     "How I fall asleep in 11 minutes.md",
     "Note Giornaliere/2021-12-03.md",
     "20 Things I Learned In My 20s.md",
