@@ -1,1 +1,3 @@
-- kaizen
+- kaizen: continuo miglioramento
+- pristine: puro
+- tout: vendere cose fasulle come vere (tipo)
