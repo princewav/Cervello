@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "breaker",
+      "path": "breaker.md"
+    },
+    {
+      "basename": "2022-01-08",
+      "path": "Note Giornaliere/2022-01-08.md"
+    },
+    {
       "basename": "2022-01-07",
       "path": "Note Giornaliere/2022-01-07.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "2022-01-09",
       "path": "Note Giornaliere/2022-01-09.md"
-    },
-    {
-      "basename": "2022-01-08",
-      "path": "Note Giornaliere/2022-01-08.md"
     },
     {
       "basename": "The Practical Programmer",
@@ -195,10 +199,6 @@
     {
       "basename": "2021-12-16",
       "path": "Note Giornaliere/2021-12-16.md"
-    },
-    {
-      "basename": "2021-12-17",
-      "path": "Note Giornaliere/2021-12-17.md"
     }
   ],
   "omittedPaths": [],
