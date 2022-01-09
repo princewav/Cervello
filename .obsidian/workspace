@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "breaker.md",
+            "file": "Note Giornaliere/2021-12-20.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breaker.md",
+                "file": "Note Giornaliere/2021-12-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breaker.md"
+                "file": "Note Giornaliere/2021-12-20.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
-    "breaker.md",
-    "Note Giornaliere/2022-01-08.md",
-    "Note Giornaliere/2022-01-07.md",
-    "MIMMO.md",
-    "Note Giornaliere/2022-01-09.md",
-    "The Practical Programmer.md",
-    "Note Giornaliere/2022-01-06.md",
-    "How to Stop Feeling Tired in the Afternoon.md",
-    "How I fall asleep in 11 minutes.md",
-    "Note Giornaliere/2021-12-03.md"
+    "Note Giornaliere/2021-12-20.md",
+    "Note Giornaliere/2021-12-18.md",
+    "Note Giornaliere/2021-12-21.md",
+    "Note Giornaliere/2021-12-26.md",
+    "Note Giornaliere/2021-12-28.md",
+    "Note Giornaliere/2021-12-30.md",
+    "Note Giornaliere/2021-12-27.md",
+    "Note Giornaliere/2021-12-29.md",
+    "Note Giornaliere/2022-01-03.md",
+    "Note Giornaliere/2022-01-04.md"
   ]
 }
