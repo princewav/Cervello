@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2021-12-20.md",
+            "file": "Note Giornaliere/2022-01-09.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2021-12-20.md",
+                "file": "Note Giornaliere/2022-01-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2021-12-20.md"
+                "file": "Note Giornaliere/2022-01-09.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "Note Giornaliere/2022-01-09.md",
     "Note Giornaliere/2021-12-20.md",
     "Note Giornaliere/2021-12-18.md",
     "Note Giornaliere/2021-12-21.md",
@@ -174,7 +175,6 @@
     "Note Giornaliere/2021-12-30.md",
     "Note Giornaliere/2021-12-27.md",
     "Note Giornaliere/2021-12-29.md",
-    "Note Giornaliere/2022-01-03.md",
-    "Note Giornaliere/2022-01-04.md"
+    "Note Giornaliere/2022-01-03.md"
   ]
 }
