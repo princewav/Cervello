@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-09.md",
+            "file": "problema delle immagini.md",
             "mode": "source",
             "source": false
           }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "open stack",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "753a9456ee8e57fa",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-09.md",
+                "file": "problema delle immagini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-09.md"
+                "file": "problema delle immagini.md"
               }
             }
           },
@@ -166,6 +167,7 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "problema delle immagini.md",
     "Note Giornaliere/2022-01-09.md",
     "Note Giornaliere/2021-12-20.md",
     "Note Giornaliere/2021-12-18.md",
@@ -174,7 +176,6 @@
     "Note Giornaliere/2021-12-28.md",
     "Note Giornaliere/2021-12-30.md",
     "Note Giornaliere/2021-12-27.md",
-    "Note Giornaliere/2021-12-29.md",
-    "Note Giornaliere/2022-01-03.md"
+    "Note Giornaliere/2021-12-29.md"
   ]
 }

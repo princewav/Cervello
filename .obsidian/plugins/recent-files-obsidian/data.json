@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "problema delle immagini",
+      "path": "problema delle immagini.md"
+    },
+    {
       "basename": "2022-01-09",
       "path": "Note Giornaliere/2022-01-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2022-01-01",
       "path": "Note Giornaliere/2022-01-01.md"
-    },
-    {
-      "basename": "2021-12-08",
-      "path": "Note Giornaliere/2021-12-08.md"
     }
   ],
   "omittedPaths": [],
