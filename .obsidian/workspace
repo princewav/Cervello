@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "correzione timbrature.md",
+            "file": "intelligenza creativa.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "correzione timbrature.md",
+                "file": "intelligenza creativa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "correzione timbrature.md"
+                "file": "intelligenza creativa.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
-    "correzione timbrature.md",
+    "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
+    "correzione timbrature.md",
     "incorrettezza nella ci.md",
     "lite_server.md",
     "🖥️   Lavoro.md",
     "problema delle immagini.md",
     "Note Giornaliere/2022-01-09.md",
     "Note Giornaliere/2021-12-20.md",
-    "Note Giornaliere/2021-12-18.md",
-    "Note Giornaliere/2021-12-21.md"
+    "Note Giornaliere/2021-12-18.md"
   ]
 }
