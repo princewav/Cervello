@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lite_server.md",
+            "file": "correzione timbrature.md",
             "mode": "source",
             "source": false
           }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lite_server.md",
+                "file": "correzione timbrature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lite_server.md"
+                "file": "correzione timbrature.md"
               }
             }
           },
@@ -167,15 +166,15 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "correzione timbrature.md",
+    "Note Giornaliere/2022-01-10.md",
+    "incorrettezza nella ci.md",
     "lite_server.md",
     "🖥️   Lavoro.md",
     "problema delle immagini.md",
     "Note Giornaliere/2022-01-09.md",
     "Note Giornaliere/2021-12-20.md",
     "Note Giornaliere/2021-12-18.md",
-    "Note Giornaliere/2021-12-21.md",
-    "Note Giornaliere/2021-12-26.md",
-    "Note Giornaliere/2021-12-28.md",
-    "Note Giornaliere/2021-12-30.md"
+    "Note Giornaliere/2021-12-21.md"
   ]
 }
