@@ -7,3 +7,4 @@
 - `competitors_history`
 	- [Flow](Flow.md)
 	- [[Tasks#Competitors History]]
+- [[lite_server]]

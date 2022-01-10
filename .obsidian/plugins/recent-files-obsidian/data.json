@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "lite_server",
+      "path": "lite_server.md"
+    },
+    {
+      "basename": "🖥️   Lavoro",
+      "path": "🖥️   Lavoro.md"
+    },
+    {
       "basename": "problema delle immagini",
       "path": "problema delle immagini.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "new note",
       "path": "new note.md"
-    },
-    {
-      "basename": "2022-01-02",
-      "path": "Note Giornaliere/2022-01-02.md"
-    },
-    {
-      "basename": "2022-01-01",
-      "path": "Note Giornaliere/2022-01-01.md"
     }
   ],
   "omittedPaths": [],

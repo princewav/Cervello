@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "problema delle immagini.md",
+            "file": "lite_server.md",
             "mode": "source",
             "source": false
           }
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "problema delle immagini.md",
+                "file": "lite_server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "problema delle immagini.md"
+                "file": "lite_server.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "lite_server.md",
+    "🖥️   Lavoro.md",
     "problema delle immagini.md",
     "Note Giornaliere/2022-01-09.md",
     "Note Giornaliere/2021-12-20.md",
@@ -174,8 +176,6 @@
     "Note Giornaliere/2021-12-21.md",
     "Note Giornaliere/2021-12-26.md",
     "Note Giornaliere/2021-12-28.md",
-    "Note Giornaliere/2021-12-30.md",
-    "Note Giornaliere/2021-12-27.md",
-    "Note Giornaliere/2021-12-29.md"
+    "Note Giornaliere/2021-12-30.md"
   ]
 }
