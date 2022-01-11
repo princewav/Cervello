@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intelligenza creativa.md",
+            "file": "API di YouSign.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligenza creativa.md",
+                "file": "API di YouSign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligenza creativa.md"
+                "file": "API di YouSign.md"
               }
             }
           },
@@ -166,6 +166,8 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "API di YouSign.md",
+    "Note Giornaliere/2022-01-11.md",
     "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
     "correzione timbrature.md",
@@ -173,8 +175,6 @@
     "lite_server.md",
     "🖥️   Lavoro.md",
     "problema delle immagini.md",
-    "Note Giornaliere/2022-01-09.md",
-    "Note Giornaliere/2021-12-20.md",
-    "Note Giornaliere/2021-12-18.md"
+    "Note Giornaliere/2022-01-09.md"
   ]
 }
