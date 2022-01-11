@@ -85,7 +85,7 @@ A procedure is the digital signature process of inviting one or more participant
 ```
 ---
 ### GET /procedure/status/
-**Internal** callback endpoint used as webhook for receiving procedure status from yousign when a specific event occurs. Received informations can be used for triggering notifications. If needed a different callback endpoint can be specified as optional field at procedure creation (POST /procedure) 
+**Internal** callback endpoint used as webhook for receiving procedure status from yousign when a specific event occurs. Received informations can be used for triggering notifications. If needed a different callback endpoint can be specified as optional field at procedure creation (POST /procedure) [[#POST procedure]]
 
 ### Notifications and Events
 At the design stage we should define for which of the following events we should provide notifications. Events that can be related to webhooks and email notifications are:
