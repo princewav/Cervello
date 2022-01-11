@@ -30,3 +30,8 @@ A procedure is the digital signature process of inviting one or more participant
    ]
 }
 ```
+
+### Response status_code == 200
+```json
+{ "procedure_id": "cf7a6583-8722-45cd-a146-906e08bc36e2", "vendor": "indomio", "status": "active", "signers": [ { "firstname": "First", "lastname": "Signer", "email": "first.signer@example.it", "phone": "+393921234567", "status": "pending", "iframe_src": "https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878- 1044fc8e0db3", }, { "firstname": "Second", "lastname": "Signer", "email": "second.signer@example.it", "phone": "+393927654321", "status": "pending", "iframe_src": "https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878- 1044fc8e0000", } ] }
+```

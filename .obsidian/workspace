@@ -13,8 +13,7 @@
             "mode": "source",
             "source": true
           }
-        },
-        "group": "743dd2d3a65921e4"
+        }
       },
       {
         "id": "e013399940b54466",
@@ -26,8 +25,7 @@
             "mode": "preview",
             "source": true
           }
-        },
-        "group": "743dd2d3a65921e4"
+        }
       }
     ],
     "direction": "vertical"
