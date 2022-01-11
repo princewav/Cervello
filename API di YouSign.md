@@ -11,3 +11,5 @@ le doc di yousign sono qui [https://dev.yousign.com/](https://dev.yousign.com/) 
 `mauro.maggi@immobiliare.it SDn!df482x2913X5`
 
 ci sono tante risorse da vedere e consultare ma approfondiamo domani meglio, per ora vi ho girato tutto il materiale possibile e considerate che comunque mancano ancora delle risorse da decidere con sistemi come il db dove salveremo alcune informazioni. A tempo perso oggi date un'occhiata veloce
+
+
