@@ -2,7 +2,7 @@ Allora per il progetto yousign vi allego un po' di docs sul quale stavamo lavora
 
 La doc `external` è la prima bozza che abbiamo condiviso con il team b2b mentre `internal` contiene anche delle curl a yousign.
 
-Qui il figma del workflow di come verrà usata la firma digitale all'interno dell'app [https://www.figma.com/file/UFl6dfdrrWCyNgpPPmNN2j/Foglio-Visita---Gestionale---App?node-id=1%3A119](https://www.figma.com/file/UFl6dfdrrWCyNgpPPmNN2j/Foglio-Visita---Gestionale---App?node-id=1%3A119)
+Qui il figma del workflow di come verrà usata la firma digitale all'interno dell'app [Figma](https://www.figma.com/file/UFl6dfdrrWCyNgpPPmNN2j/Foglio-Visita---Gestionale---App?node-id=1%3A119)
 
 il file `flow_chart.pdf` è la versione tl;dr del figma di sopra che contiene l'interazione con le nostre api per come lo stavamo pensando, vi direi di concentrarvi qui invece che sul figma visto che elimina un sacco di rumore
 
