@@ -2,9 +2,8 @@
   color: var(--text-normal) !important;
   background-color: var(--text-bg-code) !important;
   line-height: 2;
-  /* border: solid 1px rgb(80, 80, 80); */
-  padding: 3px;
-  border-radius: 5px;
+  padding: 5px;
+  font-family: 'JetBrains Mono NL' !important;
 }
 
 .markdown-preview-view code {
@@ -86,4 +85,5 @@ filter: hue-rotate(352deg);
   --interactive-accent: #008cff;
   --interactive-accent-hover: #0176d6;
   --h1-color: #8fd9f1;
+  --text-bg-code: black;
 }

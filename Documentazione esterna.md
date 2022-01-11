@@ -10,7 +10,7 @@ A procedure is the digital signature process of inviting one or more participant
 1. We assume that the pdf file to be signed is not shared but it is generated on our side starting from a static template. It’s important to know if editable fields should be provided inside the document to be signed. 
 2. Members receive an OTP code by sms at the time of sign, if is preferable this code can be sent by email
 
-`sdsdfsdfdfs`
+`sdsdfsdfdfsfsdfsd`
 
 ### Request Payload
 ```json
