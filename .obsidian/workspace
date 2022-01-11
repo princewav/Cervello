@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ba282d9150ea99fb",
+        "id": "12438f961bfea5e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flow Chart.md",
+            "file": "API di YouSign.md",
             "mode": "source",
             "source": false
           }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flow Chart.md",
+                "file": "API di YouSign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flow Chart.md"
+                "file": "API di YouSign.md"
               }
             }
           },
@@ -165,12 +164,12 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "ba282d9150ea99fb",
+  "active": "12438f961bfea5e5",
   "lastOpenFiles": [
-    "Flow Chart.md",
     "API di YouSign.md",
-    "Documentazione interna.md",
     "Note Giornaliere/2022-01-11.md",
+    "Flow Chart.md",
+    "Documentazione interna.md",
     "Documentazione esterna.md",
     "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
