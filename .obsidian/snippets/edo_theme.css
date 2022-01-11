@@ -1,8 +1,8 @@
-.cm-inline-code,
-.cm-hmd-codeblock {
+.cm-inline-code {
   color: var(--text-normal) !important;
+  background-color: var(--text-bg-code) !important;
   line-height: 2;
-  border: solid 1px rgb(80, 80, 80);
+  /* border: solid 1px rgb(80, 80, 80); */
   padding: 3px;
   border-radius: 5px;
 }

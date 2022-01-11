@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API di YouSign.md",
+            "file": "Documentazione esterna.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API di YouSign.md",
+                "file": "Documentazione esterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API di YouSign.md"
+                "file": "Documentazione esterna.md"
               }
             }
           },
@@ -166,11 +166,11 @@
   },
   "active": "12438f961bfea5e5",
   "lastOpenFiles": [
+    "Documentazione esterna.md",
     "API di YouSign.md",
     "Note Giornaliere/2022-01-11.md",
     "Flow Chart.md",
     "Documentazione interna.md",
-    "Documentazione esterna.md",
     "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
     "correzione timbrature.md",
