@@ -5,6 +5,11 @@
   padding: 5px;
   font-family: 'JetBrains Mono NL' !important;
 }
+/* .cm-s-obsidian span.cm-inline-code {
+  color: #c7254e;
+  background-color: var(--background-primary-alt);
+  vertical-align: baseline;
+} */
 
 .cm-hmd-codeblock {
   font-family: 'JetBrains Mono NL' !important;
