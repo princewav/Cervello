@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-11.md",
+            "file": "API di YouSign.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-11.md",
+            "file": "API di YouSign.md",
             "mode": "preview",
             "source": true
           }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-11.md",
+                "file": "API di YouSign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-11.md"
+                "file": "API di YouSign.md"
               }
             }
           },
@@ -180,11 +180,11 @@
   },
   "active": "3fda94352d3e45f8",
   "lastOpenFiles": [
+    "API di YouSign.md",
     "Note Giornaliere/2022-01-11.md",
     "unomas.md",
     "Allegati/signature_api_docs_internal.pdf",
     "Documentazione interna.md",
-    "API di YouSign.md",
     "Documentazione esterna.md",
     "Flow Chart.md",
     "intelligenza creativa.md",
