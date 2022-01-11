@@ -14,3 +14,5 @@ ci sono tante risorse da vedere e consultare ma approfondiamo domani meglio, per
 
 
 [[Documentazione esterna]]
+[[Documentazione interna]]
+[[Flow Chart]]

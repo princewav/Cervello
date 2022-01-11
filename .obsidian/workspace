@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ba107df178e0b439",
+        "id": "ba282d9150ea99fb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentazione esterna.md",
-            "mode": "preview",
+            "file": "API di YouSign.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentazione esterna.md",
+                "file": "API di YouSign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentazione esterna.md"
+                "file": "API di YouSign.md"
               }
             }
           },
@@ -165,17 +165,17 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "ba107df178e0b439",
+  "active": "ba282d9150ea99fb",
   "lastOpenFiles": [
-    "Documentazione esterna.md",
     "API di YouSign.md",
+    "Flow Chart.md",
+    "Documentazione interna.md",
     "Note Giornaliere/2022-01-11.md",
+    "Documentazione esterna.md",
     "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
     "correzione timbrature.md",
     "incorrettezza nella ci.md",
-    "lite_server.md",
-    "🖥️   Lavoro.md",
-    "problema delle immagini.md"
+    "lite_server.md"
   ]
 }

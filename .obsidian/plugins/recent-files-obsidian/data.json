@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Documentazione esterna",
-      "path": "Documentazione esterna.md"
-    },
-    {
       "basename": "API di YouSign",
       "path": "API di YouSign.md"
     },
     {
+      "basename": "Flow Chart",
+      "path": "Flow Chart.md"
+    },
+    {
+      "basename": "Documentazione interna",
+      "path": "Documentazione interna.md"
+    },
+    {
       "basename": "2022-01-11",
       "path": "Note Giornaliere/2022-01-11.md"
+    },
+    {
+      "basename": "Documentazione esterna",
+      "path": "Documentazione esterna.md"
     },
     {
       "basename": "intelligenza creativa",
@@ -191,14 +199,6 @@
     {
       "basename": "Piano vacanze di natale",
       "path": "Piano vacanze di natale.md"
-    },
-    {
-      "basename": "2017 Personalità 01 - Introduzione",
-      "path": "2017 Personalità 01 - Introduzione.md"
-    },
-    {
-      "basename": "7 LIFE LESSONS FROM MY 30s - how life changes in your 30s",
-      "path": "7 LIFE LESSONS FROM MY 30s - how life changes in your 30s.md"
     }
   ],
   "omittedPaths": [],
