@@ -1,3 +1,7 @@
+mandare le config di prod di valutazione immobiliare
+
+
+
 # Signature API Docs
 A FastAPI web app that allows digital signature process automation using an external digital signature service. We will take as a reference the Yousign digital signature service, the one that will be first implemented, but the idea is to build an abstraction layer in order to adapt the app behaviour to manage different external resources.
 
