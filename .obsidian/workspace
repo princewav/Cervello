@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API di YouSign.md",
+            "file": "Documentazione esterna.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API di YouSign.md",
+                "file": "Documentazione esterna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API di YouSign.md"
+                "file": "Documentazione esterna.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "ba107df178e0b439",
   "lastOpenFiles": [
+    "Documentazione esterna.md",
     "API di YouSign.md",
     "Note Giornaliere/2022-01-11.md",
     "intelligenza creativa.md",
@@ -174,7 +175,6 @@
     "incorrettezza nella ci.md",
     "lite_server.md",
     "🖥️   Lavoro.md",
-    "problema delle immagini.md",
-    "Note Giornaliere/2022-01-09.md"
+    "problema delle immagini.md"
   ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Documentazione esterna",
+      "path": "Documentazione esterna.md"
+    },
+    {
       "basename": "API di YouSign",
       "path": "API di YouSign.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "7 LIFE LESSONS FROM MY 30s - how life changes in your 30s",
       "path": "7 LIFE LESSONS FROM MY 30s - how life changes in your 30s.md"
-    },
-    {
-      "basename": "The BIGGEST Mindset Change You Need to Make RIGHT Now! (It's Common Sense!)",
-      "path": "The BIGGEST Mindset Change You Need to Make RIGHT Now! (It's Common Sense!).md"
     }
   ],
   "omittedPaths": [],
