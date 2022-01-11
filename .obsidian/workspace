@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "12438f961bfea5e5",
+        "id": "3ac86865417dd653",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentazione esterna.md",
+            "file": "Note Giornaliere/2022-01-11.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "787dd478eb631e25"
+      },
+      {
+        "id": "14332847dfdd0cad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note Giornaliere/2022-01-11.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "787dd478eb631e25"
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentazione esterna.md",
+                "file": "Note Giornaliere/2022-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentazione esterna.md"
+                "file": "Note Giornaliere/2022-01-11.md"
               }
             }
           },
@@ -164,11 +178,11 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "12438f961bfea5e5",
+  "active": "3ac86865417dd653",
   "lastOpenFiles": [
+    "Note Giornaliere/2022-01-11.md",
     "Documentazione esterna.md",
     "API di YouSign.md",
-    "Note Giornaliere/2022-01-11.md",
     "Flow Chart.md",
     "Documentazione interna.md",
     "intelligenza creativa.md",
