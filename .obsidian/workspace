@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3ac86865417dd653",
+        "id": "3fda94352d3e45f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentazione esterna.md",
+            "file": "Note Giornaliere/2022-01-11.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "787dd478eb631e25"
+        "group": "5fafbc994d465081"
       },
       {
-        "id": "14332847dfdd0cad",
+        "id": "3ccc42b510ee0ed3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Documentazione esterna.md",
+            "file": "Note Giornaliere/2022-01-11.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "787dd478eb631e25"
+        "group": "5fafbc994d465081"
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentazione esterna.md",
+                "file": "Note Giornaliere/2022-01-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentazione esterna.md"
+                "file": "Note Giornaliere/2022-01-11.md"
               }
             }
           },
@@ -178,17 +178,17 @@
     "direction": "horizontal",
     "width": 322
   },
-  "active": "3ac86865417dd653",
+  "active": "3fda94352d3e45f8",
   "lastOpenFiles": [
-    "Documentazione esterna.md",
-    "API di YouSign.md",
     "Note Giornaliere/2022-01-11.md",
-    "Flow Chart.md",
+    "unomas.md",
+    "Allegati/signature_api_docs_internal.pdf",
     "Documentazione interna.md",
+    "API di YouSign.md",
+    "Documentazione esterna.md",
+    "Flow Chart.md",
     "intelligenza creativa.md",
     "Note Giornaliere/2022-01-10.md",
-    "correzione timbrature.md",
-    "incorrettezza nella ci.md",
-    "lite_server.md"
+    "correzione timbrature.md"
   ]
 }
