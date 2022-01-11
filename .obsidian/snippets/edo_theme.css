@@ -5,11 +5,13 @@
   padding: 5px;
   font-family: 'JetBrains Mono NL' !important;
 }
-.cm-hmd-codeblock{
+
+.cm-hmd-codeblock {
   font-family: 'JetBrains Mono NL' !important;
   color: var(--text-normal);
   font-weight: bold;
 }
+
 .markdown-preview-view code {
   color: var(--text-normal);
   background-color: var(--background-primary-alt);
@@ -48,11 +50,10 @@ ol {
 }
 
 body {
-  font-family: 'Nunito', sans-serif;
+  font-family: var(--default-font-family)
 }
-
 :root {
-  --default-font: 'Nunito', sans-serif;
+  font-family: var(--default-font-family)
 }
 
 a.tag {
@@ -72,11 +73,14 @@ a.tag:hover {
   color: var(--text-accent-hover);
   border-color: var(--background-modifier-border-hover);
 }
-h1, .cm-header-1 {
+
+h1,
+.cm-header-1 {
   color: var(--text-accent);
 }
-.task-list-item-checkbox{
-filter: hue-rotate(352deg);
+
+.task-list-item-checkbox {
+  filter: hue-rotate(352deg);
 }
 
 .cm-s-obsidian .HyperMD-table-row.HyperMD-table-row-0 {
@@ -90,4 +94,10 @@ filter: hue-rotate(352deg);
   --interactive-accent-hover: #0176d6;
   --h1-color: #8fd9f1;
   --text-bg-code: black;
+  --nunito: 'Nunito', sans-serif;
+  --default-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+.theme-light {
+  --default-font-family: "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
