@@ -5,7 +5,10 @@
   padding: 5px;
   font-family: 'JetBrains Mono NL' !important;
 }
-
+.cm-hmd-codeblock{
+  font-family: 'JetBrains Mono NL' !important;
+  color: var(--text-normal);
+}
 .markdown-preview-view code {
   color: var(--text-normal);
   background-color: var(--background-primary-alt);
