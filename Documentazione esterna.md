@@ -1,5 +1,3 @@
-![[signature_api_docs_external.pdf]]
-
 # Signature API Docs
 A FastAPI web app that allows digital signature process automation using an external digital signature service. We will take as a reference the Yousign digital signature service, the one that will be first implemented, but the idea is to build an abstraction layer in order to adapt the app behaviour to manage different external resources.
 
@@ -60,6 +58,44 @@ A procedure is the digital signature process of inviting one or more participant
 ---
 ### GET /procedure/{procedure_id}
 #### Response status_code 200:
-{ "procedure_id": "cf7a6583-8722-45cd-a146-906e08bc36e2", "vendor": "indomio", "status": "active", "signers": [ { "firstname": "First", "lastname": "Signer", "email": "first.signer@example.it", "phone": "+393921234567", "status": "pending", "iframe_src": "https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878- 1044fc8e0db3", }, "firstname": "Second", "lastname": "Signer", "email": "second.signer@example.it", "phone": "+393927654321", "status": "pending", "iframe_src": "https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878- 1044fc8e0000", } ] } 
+```json
+{
+   "procedure_id":"cf7a6583-8722-45cd-a146-906e08bc36e2",
+   "vendor":"indomio",
+   "status":"active",
+   "signers":[
+      {
+         "firstname":"First",
+         "lastname":"Signer",
+         "email":"first.signer@example.it",
+         "phone":"+393921234567",
+         "status":"pending",
+         "iframe_src":"https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878-1044fc8e0db3"
+      },
+      {
+         "firstname":"Second",
+         "lastname":"Signer",
+         "email":"second.signer@example.it",
+         "phone":"+393927654321",
+         "status":"pending",
+         "iframe_src":"https://staging-app.yousign.com/procedure/sign?members=/members/3af46b58-8c3a-4877-9878-1044fc8e0000"
+      }
+   ]
+}
+```
 
-GET /procedure/status/ internal callback endpoint used as webhook for receiving procedure status from yousign when a specific event occurs. Received informations can be used for triggering notifications. If needed a different callback endpoint can be specified as optional field at procedure creation (POST /procedure) Notifications and Events: At he design stage we should define for which of the following events we should provide notifications. Events that can be related to webhooks and email notifications are: Name Description procedure.started Fired when a procedure is created (POST /procedure) procedure.finished Fired when a procedure is finished (all members have signed) procedure.refused Fired when a procedure is refused (a member have refused) procedure.expired Fired when a procedure expired (The expiresAt date is reached) member.started Fired when a member can sign member.finished Fired when a member have signed comment.created Fired when someone comment a procedure
+### GET /procedure/status/
+**Internal** callback endpoint used as webhook for receiving procedure status from yousign when a specific event occurs. Received informations can be used for triggering notifications. If needed a different callback endpoint can be specified as optional field at procedure creation (POST /procedure) 
+
+### Notifications and Events
+At the design stage we should define for which of the following events we should provide notifications. Events that can be related to webhooks and email notifications are:
+
+| Name               | Description                                                    |
+| ------------------ | -------------------------------------------------------------- |
+| procedure.started  | Fired when a procedure is created (POST /procedure)            |
+| procedure.finished | Fired when a procedure is finished (all members have signed)   |
+| procedure.refused  | Fired when a procedure is refused (a member have refused)      |
+| procedure.expired  | Fired when a procedure expired (The expiresAt date is reached) |
+| member.started     | Fired when a member can sign                                   |
+| member.finished    | Fired when a member have signed                                |
+| comment.created    | Fired when someone comment a procedure                         |
