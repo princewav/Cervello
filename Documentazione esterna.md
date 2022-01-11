@@ -12,5 +12,21 @@ A procedure is the digital signature process of inviting one or more participant
 
 ### Request Payload
 ```json
-{ "vendor": "indomio", "members": [ { "firstname": "First", "lastname": "Signer", "email": "first.signer@example.it", "phone": "+393921234567", }, { "firstname": "Second", "lastname": "Signer", "email": "second.signer@example.it", "phone": "+393927654321", } ] }
+{
+   "vendor":"indomio",
+   "members":[
+      {
+         "firstname":"First",
+         "lastname":"Signer",
+         "email":"first.signer@example.it",
+         "phone":"+393921234567"
+      },
+      {
+         "firstname":"Second",
+         "lastname":"Signer",
+         "email":"second.signer@example.it",
+         "phone":"+393927654321"
+      }
+   ]
+}
 ```

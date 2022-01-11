@@ -8,6 +8,7 @@
 .cm-hmd-codeblock{
   font-family: 'JetBrains Mono NL' !important;
   color: var(--text-normal);
+  font-weight: bold;
 }
 .markdown-preview-view code {
   color: var(--text-normal);
