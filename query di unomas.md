@@ -40,3 +40,20 @@ group by
    }
 ]
 ```
+
+---
+# Risoluzione
+```sql
+SELECT
+   SPLIT(meta().id, "::")[0] AS uuid,
+   SUM(views) AS views
+FROM
+   hit_counter
+WHERE
+   "visit" in tags
+   AND owner == "immobiliareit"
+   AND SPLIT(meta().id, "::")[1] BETWEEN "2022-01-11" AND "2022-01-13"
+   AND SPLIT(meta().id, "::")[0] IS NOT MISSING
+GROUP BY
+    SPLIT(meta().id, "::")[0]
+```
