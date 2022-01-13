@@ -4,7 +4,5 @@
   "theme": "obsidian",
   "cssTheme": "",
   "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "edo_theme"
-  ]
+  "enabledCssSnippets": []
 }

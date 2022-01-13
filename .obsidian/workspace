@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note Giornaliere/2022-01-12.md",
+            "file": "TestYouSign.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "753a9456ee8e57fa",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note Giornaliere/2022-01-12.md",
+                "file": "TestYouSign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note Giornaliere/2022-01-12.md"
+                "file": "TestYouSign.md"
               }
             }
           },
@@ -166,6 +167,7 @@
   },
   "active": "3ccc42b510ee0ed3",
   "lastOpenFiles": [
+    "TestYouSign.md",
     "Note Giornaliere/2022-01-12.md",
     "Note Giornaliere/2022-01-13.md",
     "Note Giornaliere/2022-01-10.md",
@@ -174,7 +176,6 @@
     "unomas.md",
     "query di unomas.md",
     "EdoTopWorkingSuite.md",
-    "MySQL.md",
-    "Tools.md"
+    "MySQL.md"
   ]
 }
