@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API di YouSign.md",
-            "mode": "preview",
+            "file": "integrare yousign con fastapi.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -105,8 +105,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "753a9456ee8e57fa",
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API di YouSign.md",
+                "file": "integrare yousign con fastapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API di YouSign.md"
+                "file": "integrare yousign con fastapi.md"
               }
             }
           },
@@ -167,6 +166,8 @@
   },
   "active": "3ccc42b510ee0ed3",
   "lastOpenFiles": [
+    "integrare yousign con fastapi.md",
+    "Note Giornaliere/2022-01-14.md",
     "API di YouSign.md",
     "Note Giornaliere/2022-01-12.md",
     "TestYouSign.md",
@@ -174,8 +175,6 @@
     "Note Giornaliere/2022-01-10.md",
     "Note Giornaliere/2022-01-11.md",
     "unomas.md",
-    "query di unomas.md",
-    "EdoTopWorkingSuite.md",
-    "MySQL.md"
+    "query di unomas.md"
   ]
 }
