@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GCP spagna supply.md",
+            "file": "Note Giornaliere/2022-01-13.md",
             "mode": "source",
             "source": false
           }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GCP spagna supply.md",
+                "file": "Note Giornaliere/2022-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GCP spagna supply.md"
+                "file": "Note Giornaliere/2022-01-13.md"
               }
             }
           },
@@ -166,14 +166,14 @@
   },
   "active": "3ccc42b510ee0ed3",
   "lastOpenFiles": [
-    "GCP spagna supply.md",
-    "Note Giornaliere/2022-01-18.md",
-    "integrare yousign con fastapi.md",
+    "Note Giornaliere/2022-01-13.md",
     "Note Giornaliere/2022-01-14.md",
+    "Note Giornaliere/2022-01-18.md",
+    "GCP spagna supply.md",
+    "integrare yousign con fastapi.md",
     "API di YouSign.md",
     "Note Giornaliere/2022-01-12.md",
     "TestYouSign.md",
-    "Note Giornaliere/2022-01-13.md",
     "Note Giornaliere/2022-01-10.md",
     "Note Giornaliere/2022-01-11.md"
   ]
