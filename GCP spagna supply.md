@@ -15,7 +15,7 @@ Questo è l'errore che ottengo:
 
 
 ---
-**Indomio** fino a 01/01/22
-**Pisos** fino a 01/01/22
-**Fotocasa** fino a 01/01/22
-**Idealista** fino a 01/01/22
+- **Indomio** fino a 01/01/22
+- **Pisos** fino a 01/01/22
+- **Fotocasa** fino a 01/01/22
+- **Idealista** fino a 25/12/21
