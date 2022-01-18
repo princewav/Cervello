@@ -12,3 +12,10 @@ Invece usando i dati di immovisita, per esempio, riesco a collegarmi, quindi il 
 
 Questo è l'errore che ottengo:
 `(1045, "Access denied for user 'mktg_supply_rw'@'cloudsqlproxy~79.18.105.133' (using password: YES)")`
+
+
+---
+**Indomio** fino a 01/01/22
+**Pisos** fino a 01/01/22
+**Fotocasa** fino a 01/01/22
+**Idealista** fino a 01/01/22
