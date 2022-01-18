@@ -15,7 +15,11 @@ Questo è l'errore che ottengo:
 
 
 ---
+Data ultimo import in gcp per competitor spagnoli:
 - **Indomio** fino a 01/01/22
 - **Pisos** fino a 01/01/22
 - **Fotocasa** fino a 01/01/22
 - **Idealista** fino a 25/12/21
+---
+Sapi endpoint per i dati delle agenzie:
+``
