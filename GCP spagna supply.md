@@ -20,6 +20,12 @@ Data ultimo import in gcp per competitor spagnoli:
 - **Pisos** fino a 01/01/22
 - **Fotocasa** fino a 01/01/22
 - **Idealista** fino a 25/12/21
+
+Data ultimo json su sapi per competitor spagnoli
+- **Indomio** fino a 08/01/22
+- **Pisos** fino a 08/01/22
+- **Fotocasa** fino a 08/01/22
+- **Idealista** fino a 08/01/22
 ---
 Sapi endpoint per i dati delle agenzie:
 `http://sapi.srv.ext.rm.ns.farm:9977/storage/mktbi/mktbi-es/last_import_indomioes.json?auth=mktbi`
