@@ -22,4 +22,7 @@ Data ultimo import in gcp per competitor spagnoli:
 - **Idealista** fino a 25/12/21
 ---
 Sapi endpoint per i dati delle agenzie:
-``
+`http://sapi.srv.ext.rm.ns.farm:9977/storage/mktbi/mktbi-es/last_import_indomioes.json?auth=mktbi`
+`http://sapi.srv.ext.rm.ns.farm:9977/storage/mktbi/mktbi-es/last_import_pisoses.json?auth=mktbi`
+`http://sapi.srv.ext.rm.ns.farm:9977/storage/mktbi/mktbi-es/last_import_fotocasaes.json?auth=mktbi`
+`http://sapi.srv.ext.rm.ns.farm:9977/storage/mktbi/mktbi-es/last_import_idealistaes.json?auth=mktbi`
