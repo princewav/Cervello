@@ -1,0 +1,1 @@
+ciao Edo, problema risolto  ho sistemato qualcosina lato inventories ma comunque il problema cruciale era che l'utente core-bot va aggiunto ai members del progetto come reporter. Questo perchè ansible usa l'utente core-bot per fare il clone del repo (vedi gitlab_creds.yml). E nada lo trovi deployato ip_address: 10.1.42.245

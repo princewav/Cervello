@@ -1,108 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "EdoTopWorkingSuite",
-      "path": "EdoTopWorkingSuite.md"
+      "basename": "call di supply",
+      "path": "call di supply.md"
     },
     {
-      "basename": "2022-01-12",
-      "path": "Note Giornaliere/2022-01-12.md"
+      "basename": "2022-02-19",
+      "path": "Note Giornaliere/2022-02-19.md"
     },
     {
-      "basename": "2022-01-13",
-      "path": "Note Giornaliere/2022-01-13.md"
-    },
-    {
-      "basename": "2022-01-14",
-      "path": "Note Giornaliere/2022-01-14.md"
-    },
-    {
-      "basename": "2022-01-18",
-      "path": "Note Giornaliere/2022-01-18.md"
+      "basename": "2022-02-18",
+      "path": "Note Giornaliere/2022-02-18.md"
     },
     {
       "basename": "2022-02-22",
       "path": "Note Giornaliere/2022-02-22.md"
     },
     {
-      "basename": "2022-01-31",
-      "path": "Note Giornaliere/2022-01-31.md"
+      "basename": "graphana",
+      "path": "Typora/graphana.md"
     },
     {
-      "basename": "2022-01-01",
-      "path": "Note Giornaliere/2022-01-01.md"
+      "basename": "scheda palestra",
+      "path": "scheda palestra.md"
     },
     {
-      "basename": "2022-01-03",
-      "path": "Note Giornaliere/2022-01-03.md"
+      "basename": "assicurazione dei piccoli rischi generalizzati",
+      "path": "assicurazione dei piccoli rischi generalizzati.md"
     },
     {
-      "basename": "2022-01-02",
-      "path": "Note Giornaliere/2022-01-02.md"
+      "basename": "bug supply filtri",
+      "path": "bug supply filtri.md"
     },
     {
-      "basename": "2022-01-10",
-      "path": "Note Giornaliere/2022-01-10.md"
+      "basename": "2022-02-15",
+      "path": "Note Giornaliere/2022-02-15.md"
     },
     {
-      "basename": "2022-01-11",
-      "path": "Note Giornaliere/2022-01-11.md"
+      "basename": "2022-02-14",
+      "path": "Note Giornaliere/2022-02-14.md"
     },
     {
-      "basename": "GCP spagna supply",
-      "path": "GCP spagna supply.md"
+      "basename": "2022-02-07",
+      "path": "Note Giornaliere/2022-02-07.md"
     },
     {
-      "basename": "integrare yousign con fastapi",
-      "path": "integrare yousign con fastapi.md"
+      "basename": "2022-02-08",
+      "path": "Note Giornaliere/2022-02-08.md"
     },
     {
-      "basename": "API di YouSign",
-      "path": "API di YouSign.md"
+      "basename": "2022-02-09",
+      "path": "Note Giornaliere/2022-02-09.md"
     },
     {
-      "basename": "TestYouSign",
-      "path": "TestYouSign.md"
+      "basename": "2022-02-11",
+      "path": "Note Giornaliere/2022-02-11.md"
     },
     {
-      "basename": "unomas",
-      "path": "unomas.md"
+      "basename": "problema dei match su agencies_analysis",
+      "path": "problema dei match su agencies_analysis.md"
     },
     {
-      "basename": "query di unomas",
-      "path": "query di unomas.md"
+      "basename": "Problema Match Automatico",
+      "path": "Problema Match Automatico.md"
     },
     {
-      "basename": "MySQL",
-      "path": "MySQL.md"
-    },
-    {
-      "basename": "Tools",
-      "path": "Tools.md"
+      "basename": "Tasks",
+      "path": "Tasks.md"
     },
     {
       "basename": "🖥️   Lavoro",
       "path": "🖥️   Lavoro.md"
     },
     {
-      "basename": "Best practices",
-      "path": "Best practices.md"
+      "basename": "✅   TODO",
+      "path": "✅   TODO.md"
     },
     {
-      "basename": "Documentazione esterna",
-      "path": "Documentazione esterna.md"
+      "basename": "deployare agencies-analysis su staging",
+      "path": "deployare agencies-analysis su staging.md"
     },
     {
-      "basename": "signature_api_docs_internal",
-      "path": "Allegati/signature_api_docs_internal.pdf"
+      "basename": "2022-02-04",
+      "path": "Note Giornaliere/2022-02-04.md"
     },
     {
-      "basename": "Documentazione interna",
-      "path": "Documentazione interna.md"
+      "basename": "fix not_matched agencies report",
+      "path": "fix not_matched agencies report.md"
     },
     {
-      "basename": "Flow Chart",
-      "path": "Flow Chart.md"
+      "basename": "2022-02-03",
+      "path": "Note Giornaliere/2022-02-03.md"
+    },
+    {
+      "basename": "Couchbase Indexes",
+      "path": "Couchbase Indexes.md"
+    },
+    {
+      "basename": "2022-02-02",
+      "path": "Note Giornaliere/2022-02-02.md"
+    },
+    {
+      "basename": "2022-02-01",
+      "path": "Note Giornaliere/2022-02-01.md"
+    },
+    {
+      "basename": "agencies_matcher indexes",
+      "path": "agencies_matcher indexes.md"
+    },
+    {
+      "basename": "correzione timbrature",
+      "path": "correzione timbrature.md"
+    },
+    {
+      "basename": "2022-01-31",
+      "path": "Note Giornaliere/2022-01-31.md"
+    },
+    {
+      "basename": "modulo relativo alla scelta del \"trattamento integrativo\" e quello relativo alle detrazioni d'imposta per l'anno 2022",
+      "path": "modulo relativo alla scelta del \"trattamento integrativo\" e quello relativo alle detrazioni d'imposta per l'anno 2022.md"
+    },
+    {
+      "basename": "2022-01-30",
+      "path": "Note Giornaliere/2022-01-30.md"
+    },
+    {
+      "basename": "script di unomas",
+      "path": "script di unomas.md"
+    },
+    {
+      "basename": "2022-01-28",
+      "path": "Note Giornaliere/2022-01-28.md"
+    },
+    {
+      "basename": "2021-12-13",
+      "path": "Note Giornaliere/2021-12-13.md"
+    },
+    {
+      "basename": "Lavoro - TODO #todo",
+      "path": "Recap/Lavoro - TODO #todo.md"
+    },
+    {
+      "basename": "2021-12-17",
+      "path": "Note Giornaliere/2021-12-17.md"
+    },
+    {
+      "basename": "Articoli riassunti",
+      "path": "Recap/Articoli riassunti.md"
+    },
+    {
+      "basename": "Articoli interessanti",
+      "path": "Recap/Articoli interessanti.md"
+    },
+    {
+      "basename": "2021-12-07",
+      "path": "Note Giornaliere/2021-12-07.md"
+    },
+    {
+      "basename": "2021-12-14",
+      "path": "Note Giornaliere/2021-12-14.md"
+    },
+    {
+      "basename": "2021-12-12",
+      "path": "Note Giornaliere/2021-12-12.md"
+    },
+    {
+      "basename": "2021-12-06",
+      "path": "Note Giornaliere/2021-12-06.md"
+    },
+    {
+      "basename": "2021-12-09",
+      "path": "Note Giornaliere/2021-12-09.md"
+    },
+    {
+      "basename": "2021-12-03",
+      "path": "Note Giornaliere/2021-12-03.md"
+    },
+    {
+      "basename": "2022-01-13",
+      "path": "Note Giornaliere/2022-01-13.md"
+    },
+    {
+      "basename": "new note",
+      "path": "new note.md"
+    },
+    {
+      "basename": "Pensieri",
+      "path": "Recap/Pensieri.md"
+    },
+    {
+      "basename": "2021-12-28",
+      "path": "Note Giornaliere/2021-12-28.md"
+    },
+    {
+      "basename": "2022-01-07",
+      "path": "Note Giornaliere/2022-01-07.md"
+    },
+    {
+      "basename": "2021-12-01",
+      "path": "Note Giornaliere/2021-12-01.md"
     }
   ],
   "omittedPaths": [],

@@ -1,12 +1,18 @@
-Buongiorno Noemi,  
+Buonasera Noemi,  
   
-sono Edoardo Principe, numero badge 0577, ti segnalo di seguito le errate timbrature di Dicembre:  
+sono Edoardo Principe, numero badge 0577, ti segnalo di seguito le errate timbrature di Gennaio:  
   
-• Martedì 07/12/2021 - Aggiungere una timbratura alle 9:15
-• Martedì 14/12/2021 - Rimuovere la timbratura alle 9:20  
-• Venerdì 17/12/2021 - Aggiungere una timbratura alle 9:15
-• Lunedì 20/12/2021 - Aggiungere una timbratura alle 9:25
-• Lunedì 20/12/2021 - Aggiungere una timbratura alle 18.25
-  
-Mi scuso per il ritardo, mi sono dimenticato di mandarla prima delle ferie, ti ringrazio in anticipo e ti auguro buon lavoro,  
+• Lunedì 17/01/2022 - Aggiungere una timbratura alle 18:20
+
+Nei seguenti giorni ho preso 8 ore di permesso ciascuno:
+- Lunedì 03/01/2022
+- Martedì 04/01/2022
+- Mercoledì 05/01/2022
+- Venerdì 07/01/2022
+
+Nel periodo dal 21/01/2022 al 27/01/2022 sono stato in malattia.
+
+Ti ringrazio in anticipo e ti auguro buon lavoro,  
 Edoardo
+
+

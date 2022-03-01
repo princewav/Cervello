@@ -1,4 +1,4 @@
-[artist 1](https://www2.javhdporn.net/pornstar/monami-takarada/ "Monami Takarada"), 
+[artist 1](https://www2.javhdporn.net/pornstar/monami-takarada/ "Monami Takarada")
 [artist2](https://www2.javhdporn.net/pornstar/waka-misono/ "Waka Misono") 
 
 [song 1](https://www2.javhdporn.net/video/sw-572/)
