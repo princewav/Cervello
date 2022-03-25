@@ -1,0 +1,35 @@
+# Mix e master
+- ## A
+    - maestro (tramite broken)
+- ## B
+    - nextars
+    - anzj
+    - rkh
+    - robertner
+- ## C
+    - albi vandelli
+    - threetimesyes
+    - yuzh
+    - unasfera (cripowski)
+    - sexto
+    - sonny
+    - ghen
+    - kido
+- ## D
+    - amgi
+    - redboy
+    - luke lecomte
+    - marrel
+    - loris
+    - moodie
+- ## E
+    - yxnx
+    - rexar
+    - zeta.hit
+    - white_noise.recordingstudio
+    - calllmeshelby
+    - invisible
+    - mafrank65
+    - fortesting0nly
+    - dok33am
+    - 20shadowman02

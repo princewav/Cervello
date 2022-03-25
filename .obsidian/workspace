@@ -9,11 +9,37 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "call di supply.md",
+            "file": "Note Giornaliere/2022-03-21.md",
             "mode": "source",
-            "source": true
+            "source": false
+          }
+        },
+        "group": "c3a5c7df161815b5"
+      },
+      {
+        "id": "2d3550e16279ef47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ragazzi per mix e master.md",
+            "mode": "source",
+            "source": false
           }
         }
+      },
+      {
+        "id": "4ed118f812224c9b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Note Giornaliere/2022-03-21.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "c3a5c7df161815b5"
       }
     ],
     "direction": "vertical"
@@ -70,15 +96,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "589adcf6e489abf0",
     "type": "split",
     "children": [
       {
+        "id": "a7ce54d317dd02d2",
+        "type": "tabs",
+        "dimension": 40.34896401308615,
+        "children": [
+          {
+            "id": "38d85d7e5d75aa14",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "9a87a851d44409d7",
         "type": "tabs",
+        "dimension": 59.65103598691385,
         "children": [
           {
             "id": "0e14f62aabdb4912",
@@ -86,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "call di supply.md",
+                "file": "ragazzi per mix e master.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,16 +157,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "call di supply.md"
+                "file": "ragazzi per mix e master.md"
               }
-            }
-          },
-          {
-            "id": "38d85d7e5d75aa14",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -135,23 +170,23 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "684bcb2396b15c1b",
+  "active": "2d3550e16279ef47",
   "lastOpenFiles": [
-    "call di supply.md",
-    "Note Giornaliere/2022-02-19.md",
-    "Note Giornaliere/2022-02-18.md",
-    "Note Giornaliere/2022-02-22.md",
-    "Typora/graphana.md",
-    "scheda palestra.md",
-    "assicurazione dei piccoli rischi generalizzati.md",
+    "ragazzi per mix e master.md",
+    "Note Giornaliere/2022-03-21.md",
+    "Note Giornaliere/2022-03-18.md",
+    "Recap/Articoli interessanti.md",
+    "Note Giornaliere/2022-03-10.md",
+    "Note Giornaliere/2022-03-09.md",
+    "Note Giornaliere/2022-03-04.md",
+    "2022-W10.md",
     "bug supply filtri.md",
-    "Note Giornaliere/2022-02-15.md",
-    "Note Giornaliere/2022-02-14.md"
+    "Note Giornaliere/2022-03-07.md"
   ]
 }
